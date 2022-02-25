@@ -1,0 +1,4 @@
+server.conf
+docs/public
+docs/node_modules
+*sqlite3

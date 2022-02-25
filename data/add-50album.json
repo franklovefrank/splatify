@@ -1,0 +1,6355 @@
+{
+ "post_path": "album",
+ "response": 201,
+ "values": [
+  {
+   "album_id": 76,
+   "album_name": "Tresom",
+   "release_year": 2002,
+   "artists": [
+    {
+     "artist_id": 41,
+     "artist_name": "Melamie Sousa",
+     "country": "Peru"
+    }
+   ],
+   "songs": [
+    {
+     "song_id": 115,
+     "song_name": "Reign Over Me",
+     "length": 324,
+     "artists": [
+      {
+       "artist_id": 41,
+       "artist_name": "Melamie Sousa",
+       "country": "Peru"
+      }
+     ]
+    },
+    {
+     "song_id": 72,
+     "song_name": "Andy Hardy's Double Life",
+     "length": 184,
+     "artists": [
+      {
+       "artist_id": 41,
+       "artist_name": "Melamie Sousa",
+       "country": "Peru"
+      }
+     ]
+    },
+    {
+     "song_id": 380,
+     "song_name": "Dummy",
+     "length": 185,
+     "artists": [
+      {
+       "artist_id": 41,
+       "artist_name": "Melamie Sousa",
+       "country": "Peru"
+      }
+     ]
+    },
+    {
+     "song_id": 53,
+     "song_name": "Carbon Nation",
+     "length": 194,
+     "artists": [
+      {
+       "artist_id": 41,
+       "artist_name": "Melamie Sousa",
+       "country": "Peru"
+      }
+     ]
+    },
+    {
+     "song_id": 350,
+     "song_name": "Universal Soldier: Regeneration",
+     "length": 209,
+     "artists": [
+      {
+       "artist_id": 41,
+       "artist_name": "Melamie Sousa",
+       "country": "Peru"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "album_id": 72,
+   "album_name": "Gembucket",
+   "release_year": 2008,
+   "artists": [
+    {
+     "artist_id": 8,
+     "artist_name": "Catriona Suff",
+     "country": "China"
+    }
+   ],
+   "songs": [
+    {
+     "song_id": 17,
+     "song_name": "Daisies (Sedmikrasky)",
+     "length": 138,
+     "artists": [
+      {
+       "artist_id": 8,
+       "artist_name": "Catriona Suff",
+       "country": "China"
+      }
+     ]
+    },
+    {
+     "song_id": 16,
+     "song_name": "Passion of Anna, The (Passion, En)",
+     "length": 231,
+     "artists": [
+      {
+       "artist_id": 8,
+       "artist_name": "Catriona Suff",
+       "country": "China"
+      }
+     ]
+    },
+    {
+     "song_id": 50,
+     "song_name": "Perfume",
+     "length": 184,
+     "artists": [
+      {
+       "artist_id": 8,
+       "artist_name": "Catriona Suff",
+       "country": "China"
+      }
+     ]
+    },
+    {
+     "song_id": 118,
+     "song_name": "My Friend Irma Goes West",
+     "length": 177,
+     "artists": [
+      {
+       "artist_id": 8,
+       "artist_name": "Catriona Suff",
+       "country": "China"
+      }
+     ]
+    },
+    {
+     "song_id": 127,
+     "song_name": "Plastic Age, The",
+     "length": 218,
+     "artists": [
+      {
+       "artist_id": 8,
+       "artist_name": "Catriona Suff",
+       "country": "China"
+      }
+     ]
+    },
+    {
+     "song_id": 267,
+     "song_name": "Dirty Shame, A",
+     "length": 275,
+     "artists": [
+      {
+       "artist_id": 8,
+       "artist_name": "Catriona Suff",
+       "country": "China"
+      }
+     ]
+    },
+    {
+     "song_id": 318,
+     "song_name": "Red Psalm (M\u00e9g k\u00e9r a n\u00e9p)",
+     "length": 218,
+     "artists": [
+      {
+       "artist_id": 8,
+       "artist_name": "Catriona Suff",
+       "country": "China"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "album_id": 58,
+   "album_name": "Holdlamis",
+   "release_year": 2010,
+   "artists": [
+    {
+     "artist_id": 2,
+     "artist_name": "Elinor Comben",
+     "country": "Indonesia"
+    }
+   ],
+   "songs": [
+    {
+     "song_id": 378,
+     "song_name": "Unthinkable",
+     "length": 254,
+     "artists": [
+      {
+       "artist_id": 2,
+       "artist_name": "Elinor Comben",
+       "country": "Indonesia"
+      }
+     ]
+    },
+    {
+     "song_id": 343,
+     "song_name": "Cold Prey II (Fritt Vilt II)",
+     "length": 243,
+     "artists": [
+      {
+       "artist_id": 2,
+       "artist_name": "Elinor Comben",
+       "country": "Indonesia"
+      }
+     ]
+    },
+    {
+     "song_id": 372,
+     "song_name": "Kirikou and the Sorceress (Kirikou et la sorci\u00e8re)",
+     "length": 154,
+     "artists": [
+      {
+       "artist_id": 2,
+       "artist_name": "Elinor Comben",
+       "country": "Indonesia"
+      }
+     ]
+    },
+    {
+     "song_id": 289,
+     "song_name": "Our Daily Bread (Unser t\u00e4glich Brot)",
+     "length": 256,
+     "artists": [
+      {
+       "artist_id": 2,
+       "artist_name": "Elinor Comben",
+       "country": "Indonesia"
+      }
+     ]
+    },
+    {
+     "song_id": 223,
+     "song_name": "Ride the Divide",
+     "length": 207,
+     "artists": [
+      {
+       "artist_id": 2,
+       "artist_name": "Elinor Comben",
+       "country": "Indonesia"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "album_id": 44,
+   "album_name": "Bitwolf",
+   "release_year": 2002,
+   "artists": [
+    {
+     "artist_id": 48,
+     "artist_name": "Lexy Belding",
+     "country": "South Korea"
+    }
+   ],
+   "songs": [
+    {
+     "song_id": 432,
+     "song_name": "Dirty Dozen, The: The Fatal Mission",
+     "length": 170,
+     "artists": [
+      {
+       "artist_id": 48,
+       "artist_name": "Lexy Belding",
+       "country": "South Korea"
+      }
+     ]
+    },
+    {
+     "song_id": 464,
+     "song_name": "Madonna of the Seven Moons",
+     "length": 175,
+     "artists": [
+      {
+       "artist_id": 48,
+       "artist_name": "Lexy Belding",
+       "country": "South Korea"
+      }
+     ]
+    },
+    {
+     "song_id": 4,
+     "song_name": "Day the Earth Stood Still, The",
+     "length": 140,
+     "artists": [
+      {
+       "artist_id": 48,
+       "artist_name": "Lexy Belding",
+       "country": "South Korea"
+      }
+     ]
+    },
+    {
+     "song_id": 407,
+     "song_name": "Perfect Man, The",
+     "length": 204,
+     "artists": [
+      {
+       "artist_id": 48,
+       "artist_name": "Lexy Belding",
+       "country": "South Korea"
+      }
+     ]
+    },
+    {
+     "song_id": 433,
+     "song_name": "Hitchhiker's Guide to the Galaxy, The",
+     "length": 165,
+     "artists": [
+      {
+       "artist_id": 48,
+       "artist_name": "Lexy Belding",
+       "country": "South Korea"
+      }
+     ]
+    },
+    {
+     "song_id": 88,
+     "song_name": "Scooby-Doo! Curse of the Lake Monster",
+     "length": 231,
+     "artists": [
+      {
+       "artist_id": 48,
+       "artist_name": "Lexy Belding",
+       "country": "South Korea"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "album_id": 13,
+   "album_name": "Opela",
+   "release_year": 1998,
+   "artists": [
+    {
+     "artist_id": 18,
+     "artist_name": "Chariot Bathoe",
+     "country": "China"
+    }
+   ],
+   "songs": [
+    {
+     "song_id": 86,
+     "song_name": "Meat the Truth",
+     "length": 118,
+     "artists": [
+      {
+       "artist_id": 18,
+       "artist_name": "Chariot Bathoe",
+       "country": "China"
+      }
+     ]
+    },
+    {
+     "song_id": 121,
+     "song_name": "Five Fingers",
+     "length": 197,
+     "artists": [
+      {
+       "artist_id": 18,
+       "artist_name": "Chariot Bathoe",
+       "country": "China"
+      }
+     ]
+    },
+    {
+     "song_id": 413,
+     "song_name": "Flavor of Green Tea Over Rice (Ochazuke no aji)",
+     "length": 185,
+     "artists": [
+      {
+       "artist_id": 18,
+       "artist_name": "Chariot Bathoe",
+       "country": "China"
+      }
+     ]
+    },
+    {
+     "song_id": 185,
+     "song_name": "Long Gray Line, The",
+     "length": 258,
+     "artists": [
+      {
+       "artist_id": 18,
+       "artist_name": "Chariot Bathoe",
+       "country": "China"
+      }
+     ]
+    },
+    {
+     "song_id": 58,
+     "song_name": "Donos de Portugal",
+     "length": 203,
+     "artists": [
+      {
+       "artist_id": 18,
+       "artist_name": "Chariot Bathoe",
+       "country": "China"
+      }
+     ]
+    },
+    {
+     "song_id": 52,
+     "song_name": "56 Up",
+     "length": 163,
+     "artists": [
+      {
+       "artist_id": 18,
+       "artist_name": "Chariot Bathoe",
+       "country": "China"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "album_id": 1,
+   "album_name": "Namfix",
+   "release_year": 1992,
+   "artists": [
+    {
+     "artist_id": 3,
+     "artist_name": "Vin Mish",
+     "country": "Lithuania"
+    }
+   ],
+   "songs": [
+    {
+     "song_id": 24,
+     "song_name": "She",
+     "length": 294,
+     "artists": [
+      {
+       "artist_id": 3,
+       "artist_name": "Vin Mish",
+       "country": "Lithuania"
+      }
+     ]
+    },
+    {
+     "song_id": 180,
+     "song_name": "Charly",
+     "length": 216,
+     "artists": [
+      {
+       "artist_id": 28,
+       "artist_name": "Geoffry Postians",
+       "country": "Croatia"
+      },
+      {
+       "artist_id": 39,
+       "artist_name": "Adan Adie",
+       "country": "Democratic Republic of the Congo"
+      }
+     ]
+    },
+    {
+     "song_id": 288,
+     "song_name": "To End All Wars",
+     "length": 181,
+     "artists": [
+      {
+       "artist_id": 41,
+       "artist_name": "Melamie Sousa",
+       "country": "Peru"
+      },
+      {
+       "artist_id": 30,
+       "artist_name": "Imogene Horley",
+       "country": "Poland"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "album_id": 2,
+   "album_name": "Zontrax",
+   "release_year": 2004,
+   "artists": [
+    {
+     "artist_id": 41,
+     "artist_name": "Melamie Sousa",
+     "country": "Peru"
+    }
+   ],
+   "songs": [
+    {
+     "song_id": 143,
+     "song_name": "The Green Years",
+     "length": 210,
+     "artists": [
+      {
+       "artist_id": 22,
+       "artist_name": "Devon Cozby",
+       "country": "Russia"
+      },
+      {
+       "artist_id": 14,
+       "artist_name": "Ester Grazier",
+       "country": "Brazil"
+      },
+      {
+       "artist_id": 44,
+       "artist_name": "Megan Rizzini",
+       "country": "United States"
+      }
+     ]
+    },
+    {
+     "song_id": 313,
+     "song_name": "Peacekeeper, The",
+     "length": 270,
+     "artists": [
+      {
+       "artist_id": 24,
+       "artist_name": "Candide Kelleher",
+       "country": "China"
+      },
+      {
+       "artist_id": 31,
+       "artist_name": "Mycah Joyner",
+       "country": "Cuba"
+      },
+      {
+       "artist_id": 36,
+       "artist_name": "Sidoney Plaice",
+       "country": "China"
+      }
+     ]
+    },
+    {
+     "song_id": 83,
+     "song_name": "Beautiful Girls",
+     "length": 213,
+     "artists": [
+      {
+       "artist_id": 27,
+       "artist_name": "Cass Hudson",
+       "country": "Poland"
+      },
+      {
+       "artist_id": 13,
+       "artist_name": "Anstice Carncross",
+       "country": "Thailand"
+      }
+     ]
+    },
+    {
+     "song_id": 229,
+     "song_name": "Karate Kid, The",
+     "length": 154,
+     "artists": [
+      {
+       "artist_id": 41,
+       "artist_name": "Melamie Sousa",
+       "country": "Peru"
+      }
+     ]
+    },
+    {
+     "song_id": 389,
+     "song_name": "Katzelmacher",
+     "length": 235,
+     "artists": [
+      {
+       "artist_id": 43,
+       "artist_name": "Dionne Haste",
+       "country": "Brazil"
+      },
+      {
+       "artist_id": 7,
+       "artist_name": "Heall Clelle",
+       "country": "China"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "album_id": 3,
+   "album_name": "Zaam-Dox",
+   "release_year": 2001,
+   "artists": [
+    {
+     "artist_id": 43,
+     "artist_name": "Dionne Haste",
+     "country": "Brazil"
+    },
+    {
+     "artist_id": 42,
+     "artist_name": "Bink Cumes",
+     "country": "Russia"
+    }
+   ],
+   "songs": [
+    {
+     "song_id": 398,
+     "song_name": "Devil Inside, The",
+     "length": 146,
+     "artists": [
+      {
+       "artist_id": 13,
+       "artist_name": "Anstice Carncross",
+       "country": "Thailand"
+      }
+     ]
+    },
+    {
+     "song_id": 441,
+     "song_name": "First Strike (Police Story 4: First Strike) (Ging chaat goo si 4: Ji gaan daan yam mo)",
+     "length": 229,
+     "artists": [
+      {
+       "artist_id": 22,
+       "artist_name": "Devon Cozby",
+       "country": "Russia"
+      },
+      {
+       "artist_id": 40,
+       "artist_name": "Westbrook Vye",
+       "country": "Indonesia"
+      }
+     ]
+    },
+    {
+     "song_id": 414,
+     "song_name": "Brooklyn's Finest",
+     "length": 186,
+     "artists": [
+      {
+       "artist_id": 19,
+       "artist_name": "Shep Beincken",
+       "country": "Indonesia"
+      },
+      {
+       "artist_id": 33,
+       "artist_name": "Fanechka Stainson",
+       "country": "Brazil"
+      },
+      {
+       "artist_id": 46,
+       "artist_name": "Adrien Shutler",
+       "country": "Sweden"
+      }
+     ]
+    },
+    {
+     "song_id": 314,
+     "song_name": "Teacher's Pet",
+     "length": 208,
+     "artists": [
+      {
+       "artist_id": 23,
+       "artist_name": "Errick Bulteel",
+       "country": "China"
+      },
+      {
+       "artist_id": 28,
+       "artist_name": "Geoffry Postians",
+       "country": "Croatia"
+      },
+      {
+       "artist_id": 48,
+       "artist_name": "Lexy Belding",
+       "country": "South Korea"
+      }
+     ]
+    },
+    {
+     "song_id": 246,
+     "song_name": "Prey for Rock & Roll",
+     "length": 212,
+     "artists": [
+      {
+       "artist_id": 27,
+       "artist_name": "Cass Hudson",
+       "country": "Poland"
+      },
+      {
+       "artist_id": 35,
+       "artist_name": "Jannel Brophy",
+       "country": "Peru"
+      }
+     ]
+    },
+    {
+     "song_id": 341,
+     "song_name": "Smokin' Aces 2: Assassins' Ball",
+     "length": 171,
+     "artists": [
+      {
+       "artist_id": 6,
+       "artist_name": "Caitrin Beggio",
+       "country": "Brazil"
+      },
+      {
+       "artist_id": 16,
+       "artist_name": "Derrick Carus",
+       "country": "Norway"
+      }
+     ]
+    },
+    {
+     "song_id": 431,
+     "song_name": "Only Old Men Are Going to Battle (V boy idut odni stariki)",
+     "length": 195,
+     "artists": [
+      {
+       "artist_id": 43,
+       "artist_name": "Dionne Haste",
+       "country": "Brazil"
+      },
+      {
+       "artist_id": 42,
+       "artist_name": "Bink Cumes",
+       "country": "Russia"
+      }
+     ]
+    },
+    {
+     "song_id": 96,
+     "song_name": "The 11 Commandments",
+     "length": 188,
+     "artists": [
+      {
+       "artist_id": 36,
+       "artist_name": "Sidoney Plaice",
+       "country": "China"
+      },
+      {
+       "artist_id": 7,
+       "artist_name": "Heall Clelle",
+       "country": "China"
+      }
+     ]
+    },
+    {
+     "song_id": 224,
+     "song_name": "I'm Not Rappaport",
+     "length": 235,
+     "artists": [
+      {
+       "artist_id": 34,
+       "artist_name": "Quinn Letty",
+       "country": "Saudi Arabia"
+      },
+      {
+       "artist_id": 36,
+       "artist_name": "Sidoney Plaice",
+       "country": "China"
+      },
+      {
+       "artist_id": 39,
+       "artist_name": "Adan Adie",
+       "country": "Democratic Republic of the Congo"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "album_id": 4,
+   "album_name": "Bigtax",
+   "release_year": 2003,
+   "artists": [
+    {
+     "artist_id": 44,
+     "artist_name": "Megan Rizzini",
+     "country": "United States"
+    }
+   ],
+   "songs": [
+    {
+     "song_id": 490,
+     "song_name": "Within Our Gates",
+     "length": 242,
+     "artists": [
+      {
+       "artist_id": 13,
+       "artist_name": "Anstice Carncross",
+       "country": "Thailand"
+      }
+     ]
+    },
+    {
+     "song_id": 286,
+     "song_name": "Aashiqui 2",
+     "length": 252,
+     "artists": [
+      {
+       "artist_id": 22,
+       "artist_name": "Devon Cozby",
+       "country": "Russia"
+      },
+      {
+       "artist_id": 1,
+       "artist_name": "Miller St Clair",
+       "country": "Bulgaria"
+      },
+      {
+       "artist_id": 27,
+       "artist_name": "Cass Hudson",
+       "country": "Poland"
+      }
+     ]
+    },
+    {
+     "song_id": 361,
+     "song_name": "Barbershop 2: Back in Business",
+     "length": 253,
+     "artists": [
+      {
+       "artist_id": 44,
+       "artist_name": "Megan Rizzini",
+       "country": "United States"
+      }
+     ]
+    },
+    {
+     "song_id": 240,
+     "song_name": "Caliber 9",
+     "length": 195,
+     "artists": [
+      {
+       "artist_id": 27,
+       "artist_name": "Cass Hudson",
+       "country": "Poland"
+      },
+      {
+       "artist_id": 4,
+       "artist_name": "Gabriele Djakovic",
+       "country": "Russia"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "album_id": 5,
+   "album_name": "Treeflex",
+   "release_year": 2001,
+   "artists": [
+    {
+     "artist_id": 15,
+     "artist_name": "Carol Purchon",
+     "country": "Peru"
+    },
+    {
+     "artist_id": 12,
+     "artist_name": "Pace McMychem",
+     "country": "China"
+    }
+   ],
+   "songs": [
+    {
+     "song_id": 410,
+     "song_name": "Two Shots Fired",
+     "length": 222,
+     "artists": [
+      {
+       "artist_id": 30,
+       "artist_name": "Imogene Horley",
+       "country": "Poland"
+      }
+     ]
+    },
+    {
+     "song_id": 219,
+     "song_name": "Dark Truth, A (Truth, The)",
+     "length": 129,
+     "artists": [
+      {
+       "artist_id": 15,
+       "artist_name": "Carol Purchon",
+       "country": "Peru"
+      },
+      {
+       "artist_id": 12,
+       "artist_name": "Pace McMychem",
+       "country": "China"
+      }
+     ]
+    },
+    {
+     "song_id": 133,
+     "song_name": "Full Metal Jacket",
+     "length": 194,
+     "artists": [
+      {
+       "artist_id": 16,
+       "artist_name": "Derrick Carus",
+       "country": "Norway"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "album_id": 6,
+   "album_name": "Veribet",
+   "release_year": 1986,
+   "artists": [
+    {
+     "artist_id": 50,
+     "artist_name": "Barde Schoenrock",
+     "country": "China"
+    }
+   ],
+   "songs": [
+    {
+     "song_id": 143,
+     "song_name": "The Green Years",
+     "length": 210,
+     "artists": [
+      {
+       "artist_id": 22,
+       "artist_name": "Devon Cozby",
+       "country": "Russia"
+      },
+      {
+       "artist_id": 14,
+       "artist_name": "Ester Grazier",
+       "country": "Brazil"
+      },
+      {
+       "artist_id": 44,
+       "artist_name": "Megan Rizzini",
+       "country": "United States"
+      }
+     ]
+    },
+    {
+     "song_id": 215,
+     "song_name": "Riot in Cell Block 11",
+     "length": 160,
+     "artists": [
+      {
+       "artist_id": 25,
+       "artist_name": "Helena Dowzell",
+       "country": "Japan"
+      },
+      {
+       "artist_id": 32,
+       "artist_name": "Josselyn Bockett",
+       "country": "China"
+      },
+      {
+       "artist_id": 26,
+       "artist_name": "Kahaleel Westcot",
+       "country": "Sweden"
+      }
+     ]
+    },
+    {
+     "song_id": 60,
+     "song_name": "Sombre",
+     "length": 241,
+     "artists": [
+      {
+       "artist_id": 16,
+       "artist_name": "Derrick Carus",
+       "country": "Norway"
+      }
+     ]
+    },
+    {
+     "song_id": 406,
+     "song_name": "Igby Goes Down",
+     "length": 252,
+     "artists": [
+      {
+       "artist_id": 20,
+       "artist_name": "Andi Leborgne",
+       "country": "China"
+      }
+     ]
+    },
+    {
+     "song_id": 218,
+     "song_name": "Lenny Bruce: Swear to Tell the Truth",
+     "length": 159,
+     "artists": [
+      {
+       "artist_id": 50,
+       "artist_name": "Barde Schoenrock",
+       "country": "China"
+      }
+     ]
+    },
+    {
+     "song_id": 316,
+     "song_name": "Girl with the Red Scarf, The (Selvi boylum, al yazmalim)",
+     "length": 232,
+     "artists": [
+      {
+       "artist_id": 18,
+       "artist_name": "Chariot Bathoe",
+       "country": "China"
+      },
+      {
+       "artist_id": 20,
+       "artist_name": "Andi Leborgne",
+       "country": "China"
+      }
+     ]
+    },
+    {
+     "song_id": 385,
+     "song_name": "Despacito",
+     "length": 202,
+     "artists": [
+      {
+       "artist_id": 38,
+       "artist_name": "Tabina De Filippi",
+       "country": "Russia"
+      }
+     ]
+    },
+    {
+     "song_id": 212,
+     "song_name": "Mr. Blandings Builds His Dream House",
+     "length": 165,
+     "artists": [
+      {
+       "artist_id": 30,
+       "artist_name": "Imogene Horley",
+       "country": "Poland"
+      }
+     ]
+    },
+    {
+     "song_id": 36,
+     "song_name": "California",
+     "length": 250,
+     "artists": [
+      {
+       "artist_id": 41,
+       "artist_name": "Melamie Sousa",
+       "country": "Peru"
+      }
+     ]
+    },
+    {
+     "song_id": 234,
+     "song_name": "Howards End",
+     "length": 192,
+     "artists": [
+      {
+       "artist_id": 21,
+       "artist_name": "Normie Casillas",
+       "country": "China"
+      },
+      {
+       "artist_id": 35,
+       "artist_name": "Jannel Brophy",
+       "country": "Peru"
+      }
+     ]
+    },
+    {
+     "song_id": 462,
+     "song_name": "Loop the Loop (Up and Down) (Horem p\u00e1dem)",
+     "length": 219,
+     "artists": [
+      {
+       "artist_id": 17,
+       "artist_name": "Beverlee Wilbore",
+       "country": "Denmark"
+      },
+      {
+       "artist_id": 30,
+       "artist_name": "Imogene Horley",
+       "country": "Poland"
+      },
+      {
+       "artist_id": 43,
+       "artist_name": "Dionne Haste",
+       "country": "Brazil"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "album_id": 7,
+   "album_name": "Aerified",
+   "release_year": 1963,
+   "artists": [
+    {
+     "artist_id": 44,
+     "artist_name": "Megan Rizzini",
+     "country": "United States"
+    },
+    {
+     "artist_id": 26,
+     "artist_name": "Kahaleel Westcot",
+     "country": "Sweden"
+    },
+    {
+     "artist_id": 36,
+     "artist_name": "Sidoney Plaice",
+     "country": "China"
+    }
+   ],
+   "songs": [
+    {
+     "song_id": 76,
+     "song_name": "Minuscule: Valley of the Lost Ants (Minuscule - La vall\u00e9e des fourmis perdues)",
+     "length": 194,
+     "artists": [
+      {
+       "artist_id": 4,
+       "artist_name": "Gabriele Djakovic",
+       "country": "Russia"
+      },
+      {
+       "artist_id": 15,
+       "artist_name": "Carol Purchon",
+       "country": "Peru"
+      },
+      {
+       "artist_id": 5,
+       "artist_name": "Kesley Shepstone",
+       "country": "Ukraine"
+      }
+     ]
+    },
+    {
+     "song_id": 498,
+     "song_name": "Elena and Her Men (Paris Does Strange Things) (Elena et les hommes)",
+     "length": 175,
+     "artists": [
+      {
+       "artist_id": 44,
+       "artist_name": "Megan Rizzini",
+       "country": "United States"
+      },
+      {
+       "artist_id": 26,
+       "artist_name": "Kahaleel Westcot",
+       "country": "Sweden"
+      },
+      {
+       "artist_id": 36,
+       "artist_name": "Sidoney Plaice",
+       "country": "China"
+      }
+     ]
+    },
+    {
+     "song_id": 485,
+     "song_name": "Fresh Horses",
+     "length": 246,
+     "artists": [
+      {
+       "artist_id": 3,
+       "artist_name": "Vin Mish",
+       "country": "Lithuania"
+      },
+      {
+       "artist_id": 20,
+       "artist_name": "Andi Leborgne",
+       "country": "China"
+      },
+      {
+       "artist_id": 29,
+       "artist_name": "Morty Ocklin",
+       "country": "China"
+      }
+     ]
+    },
+    {
+     "song_id": 265,
+     "song_name": "Ice Cream Man",
+     "length": 253,
+     "artists": [
+      {
+       "artist_id": 5,
+       "artist_name": "Kesley Shepstone",
+       "country": "Ukraine"
+      },
+      {
+       "artist_id": 50,
+       "artist_name": "Barde Schoenrock",
+       "country": "China"
+      },
+      {
+       "artist_id": 42,
+       "artist_name": "Bink Cumes",
+       "country": "Russia"
+      }
+     ]
+    },
+    {
+     "song_id": 55,
+     "song_name": "Bridge to Nowhere, The",
+     "length": 216,
+     "artists": [
+      {
+       "artist_id": 35,
+       "artist_name": "Jannel Brophy",
+       "country": "Peru"
+      }
+     ]
+    },
+    {
+     "song_id": 394,
+     "song_name": "Silmido",
+     "length": 237,
+     "artists": [
+      {
+       "artist_id": 17,
+       "artist_name": "Beverlee Wilbore",
+       "country": "Denmark"
+      },
+      {
+       "artist_id": 21,
+       "artist_name": "Normie Casillas",
+       "country": "China"
+      }
+     ]
+    },
+    {
+     "song_id": 74,
+     "song_name": "Cat and the Canary, The",
+     "length": 206,
+     "artists": [
+      {
+       "artist_id": 15,
+       "artist_name": "Carol Purchon",
+       "country": "Peru"
+      },
+      {
+       "artist_id": 38,
+       "artist_name": "Tabina De Filippi",
+       "country": "Russia"
+      },
+      {
+       "artist_id": 1,
+       "artist_name": "Miller St Clair",
+       "country": "Bulgaria"
+      }
+     ]
+    },
+    {
+     "song_id": 269,
+     "song_name": "Bordertown",
+     "length": 228,
+     "artists": [
+      {
+       "artist_id": 2,
+       "artist_name": "Elinor Comben",
+       "country": "Indonesia"
+      }
+     ]
+    },
+    {
+     "song_id": 276,
+     "song_name": "Return of Frank James, The",
+     "length": 170,
+     "artists": [
+      {
+       "artist_id": 20,
+       "artist_name": "Andi Leborgne",
+       "country": "China"
+      }
+     ]
+    },
+    {
+     "song_id": 493,
+     "song_name": "After School Special (a.k.a. Barely Legal)",
+     "length": 189,
+     "artists": [
+      {
+       "artist_id": 11,
+       "artist_name": "Shawn Lamperd",
+       "country": "Estonia"
+      },
+      {
+       "artist_id": 17,
+       "artist_name": "Beverlee Wilbore",
+       "country": "Denmark"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "album_id": 8,
+   "album_name": "Redhold",
+   "release_year": 2005,
+   "artists": [
+    {
+     "artist_id": 16,
+     "artist_name": "Derrick Carus",
+     "country": "Norway"
+    }
+   ],
+   "songs": [
+    {
+     "song_id": 30,
+     "song_name": "Bodyguards and Assassins",
+     "length": 216,
+     "artists": [
+      {
+       "artist_id": 16,
+       "artist_name": "Derrick Carus",
+       "country": "Norway"
+      }
+     ]
+    },
+    {
+     "song_id": 465,
+     "song_name": "Too Much Sleep",
+     "length": 222,
+     "artists": [
+      {
+       "artist_id": 44,
+       "artist_name": "Megan Rizzini",
+       "country": "United States"
+      },
+      {
+       "artist_id": 35,
+       "artist_name": "Jannel Brophy",
+       "country": "Peru"
+      }
+     ]
+    },
+    {
+     "song_id": 197,
+     "song_name": "Ship of Fools",
+     "length": 193,
+     "artists": [
+      {
+       "artist_id": 20,
+       "artist_name": "Andi Leborgne",
+       "country": "China"
+      },
+      {
+       "artist_id": 26,
+       "artist_name": "Kahaleel Westcot",
+       "country": "Sweden"
+      },
+      {
+       "artist_id": 36,
+       "artist_name": "Sidoney Plaice",
+       "country": "China"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "album_id": 9,
+   "album_name": "Andalax",
+   "release_year": 1984,
+   "artists": [
+    {
+     "artist_id": 19,
+     "artist_name": "Shep Beincken",
+     "country": "Indonesia"
+    }
+   ],
+   "songs": [
+    {
+     "song_id": 465,
+     "song_name": "Too Much Sleep",
+     "length": 222,
+     "artists": [
+      {
+       "artist_id": 44,
+       "artist_name": "Megan Rizzini",
+       "country": "United States"
+      },
+      {
+       "artist_id": 35,
+       "artist_name": "Jannel Brophy",
+       "country": "Peru"
+      }
+     ]
+    },
+    {
+     "song_id": 330,
+     "song_name": "From Dusk Till Dawn 2: Texas Blood Money ",
+     "length": 239,
+     "artists": [
+      {
+       "artist_id": 36,
+       "artist_name": "Sidoney Plaice",
+       "country": "China"
+      }
+     ]
+    },
+    {
+     "song_id": 125,
+     "song_name": "Judex",
+     "length": 251,
+     "artists": [
+      {
+       "artist_id": 9,
+       "artist_name": "Dion Minifie",
+       "country": "France"
+      },
+      {
+       "artist_id": 43,
+       "artist_name": "Dionne Haste",
+       "country": "Brazil"
+      }
+     ]
+    },
+    {
+     "song_id": 41,
+     "song_name": "When the Wind Blows",
+     "length": 209,
+     "artists": [
+      {
+       "artist_id": 1,
+       "artist_name": "Miller St Clair",
+       "country": "Bulgaria"
+      },
+      {
+       "artist_id": 44,
+       "artist_name": "Megan Rizzini",
+       "country": "United States"
+      },
+      {
+       "artist_id": 47,
+       "artist_name": "Darcee Janouch",
+       "country": "Indonesia"
+      }
+     ]
+    },
+    {
+     "song_id": 488,
+     "song_name": "Taking Care of Business",
+     "length": 229,
+     "artists": [
+      {
+       "artist_id": 19,
+       "artist_name": "Shep Beincken",
+       "country": "Indonesia"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "album_id": 10,
+   "album_name": "Pannier",
+   "release_year": 1996,
+   "artists": [
+    {
+     "artist_id": 23,
+     "artist_name": "Errick Bulteel",
+     "country": "China"
+    }
+   ],
+   "songs": [
+    {
+     "song_id": 341,
+     "song_name": "Smokin' Aces 2: Assassins' Ball",
+     "length": 171,
+     "artists": [
+      {
+       "artist_id": 6,
+       "artist_name": "Caitrin Beggio",
+       "country": "Brazil"
+      },
+      {
+       "artist_id": 16,
+       "artist_name": "Derrick Carus",
+       "country": "Norway"
+      }
+     ]
+    },
+    {
+     "song_id": 132,
+     "song_name": "Such Hawks Such Hounds",
+     "length": 269,
+     "artists": [
+      {
+       "artist_id": 23,
+       "artist_name": "Errick Bulteel",
+       "country": "China"
+      }
+     ]
+    },
+    {
+     "song_id": 480,
+     "song_name": "Angel Named Billy, An",
+     "length": 237,
+     "artists": [
+      {
+       "artist_id": 40,
+       "artist_name": "Westbrook Vye",
+       "country": "Indonesia"
+      }
+     ]
+    },
+    {
+     "song_id": 142,
+     "song_name": "To.get.her",
+     "length": 189,
+     "artists": [
+      {
+       "artist_id": 39,
+       "artist_name": "Adan Adie",
+       "country": "Democratic Republic of the Congo"
+      },
+      {
+       "artist_id": 14,
+       "artist_name": "Ester Grazier",
+       "country": "Brazil"
+      }
+     ]
+    },
+    {
+     "song_id": 195,
+     "song_name": "Book Thief, The",
+     "length": 238,
+     "artists": [
+      {
+       "artist_id": 25,
+       "artist_name": "Helena Dowzell",
+       "country": "Japan"
+      },
+      {
+       "artist_id": 44,
+       "artist_name": "Megan Rizzini",
+       "country": "United States"
+      },
+      {
+       "artist_id": 48,
+       "artist_name": "Lexy Belding",
+       "country": "South Korea"
+      }
+     ]
+    },
+    {
+     "song_id": 457,
+     "song_name": "Detour",
+     "length": 242,
+     "artists": [
+      {
+       "artist_id": 11,
+       "artist_name": "Shawn Lamperd",
+       "country": "Estonia"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "album_id": 11,
+   "album_name": "Zoolab",
+   "release_year": 2000,
+   "artists": [
+    {
+     "artist_id": 32,
+     "artist_name": "Josselyn Bockett",
+     "country": "China"
+    },
+    {
+     "artist_id": 14,
+     "artist_name": "Ester Grazier",
+     "country": "Brazil"
+    },
+    {
+     "artist_id": 35,
+     "artist_name": "Jannel Brophy",
+     "country": "Peru"
+    }
+   ],
+   "songs": [
+    {
+     "song_id": 165,
+     "song_name": "First Person Plural",
+     "length": 179,
+     "artists": [
+      {
+       "artist_id": 22,
+       "artist_name": "Devon Cozby",
+       "country": "Russia"
+      },
+      {
+       "artist_id": 27,
+       "artist_name": "Cass Hudson",
+       "country": "Poland"
+      },
+      {
+       "artist_id": 43,
+       "artist_name": "Dionne Haste",
+       "country": "Brazil"
+      }
+     ]
+    },
+    {
+     "song_id": 91,
+     "song_name": "Diamond Girl",
+     "length": 234,
+     "artists": [
+      {
+       "artist_id": 16,
+       "artist_name": "Derrick Carus",
+       "country": "Norway"
+      }
+     ]
+    },
+    {
+     "song_id": 80,
+     "song_name": "Long and Short of It, The",
+     "length": 233,
+     "artists": [
+      {
+       "artist_id": 32,
+       "artist_name": "Josselyn Bockett",
+       "country": "China"
+      },
+      {
+       "artist_id": 14,
+       "artist_name": "Ester Grazier",
+       "country": "Brazil"
+      },
+      {
+       "artist_id": 35,
+       "artist_name": "Jannel Brophy",
+       "country": "Peru"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "album_id": 12,
+   "album_name": "Greenlam",
+   "release_year": 2005,
+   "artists": [
+    {
+     "artist_id": 45,
+     "artist_name": "Danika Callan",
+     "country": "Russia"
+    },
+    {
+     "artist_id": 13,
+     "artist_name": "Anstice Carncross",
+     "country": "Thailand"
+    },
+    {
+     "artist_id": 46,
+     "artist_name": "Adrien Shutler",
+     "country": "Sweden"
+    }
+   ],
+   "songs": [
+    {
+     "song_id": 471,
+     "song_name": "Trash",
+     "length": 224,
+     "artists": [
+      {
+       "artist_id": 7,
+       "artist_name": "Heall Clelle",
+       "country": "China"
+      },
+      {
+       "artist_id": 16,
+       "artist_name": "Derrick Carus",
+       "country": "Norway"
+      }
+     ]
+    },
+    {
+     "song_id": 106,
+     "song_name": "True Heart Susie",
+     "length": 245,
+     "artists": [
+      {
+       "artist_id": 43,
+       "artist_name": "Dionne Haste",
+       "country": "Brazil"
+      },
+      {
+       "artist_id": 46,
+       "artist_name": "Adrien Shutler",
+       "country": "Sweden"
+      },
+      {
+       "artist_id": 32,
+       "artist_name": "Josselyn Bockett",
+       "country": "China"
+      }
+     ]
+    },
+    {
+     "song_id": 67,
+     "song_name": "Maid, The (Nana, La)",
+     "length": 293,
+     "artists": [
+      {
+       "artist_id": 45,
+       "artist_name": "Danika Callan",
+       "country": "Russia"
+      },
+      {
+       "artist_id": 13,
+       "artist_name": "Anstice Carncross",
+       "country": "Thailand"
+      },
+      {
+       "artist_id": 46,
+       "artist_name": "Adrien Shutler",
+       "country": "Sweden"
+      }
+     ]
+    },
+    {
+     "song_id": 393,
+     "song_name": "Children of the Night",
+     "length": 168,
+     "artists": [
+      {
+       "artist_id": 3,
+       "artist_name": "Vin Mish",
+       "country": "Lithuania"
+      },
+      {
+       "artist_id": 30,
+       "artist_name": "Imogene Horley",
+       "country": "Poland"
+      },
+      {
+       "artist_id": 6,
+       "artist_name": "Caitrin Beggio",
+       "country": "Brazil"
+      }
+     ]
+    },
+    {
+     "song_id": 18,
+     "song_name": "Pekka ja P\u00e4tk\u00e4 puistot\u00e4tein\u00e4",
+     "length": 221,
+     "artists": [
+      {
+       "artist_id": 5,
+       "artist_name": "Kesley Shepstone",
+       "country": "Ukraine"
+      },
+      {
+       "artist_id": 39,
+       "artist_name": "Adan Adie",
+       "country": "Democratic Republic of the Congo"
+      },
+      {
+       "artist_id": 41,
+       "artist_name": "Melamie Sousa",
+       "country": "Peru"
+      }
+     ]
+    },
+    {
+     "song_id": 81,
+     "song_name": "Earthquake",
+     "length": 210,
+     "artists": [
+      {
+       "artist_id": 47,
+       "artist_name": "Darcee Janouch",
+       "country": "Indonesia"
+      }
+     ]
+    },
+    {
+     "song_id": 9,
+     "song_name": "Water Drops on Burning Rocks",
+     "length": 198,
+     "artists": [
+      {
+       "artist_id": 50,
+       "artist_name": "Barde Schoenrock",
+       "country": "China"
+      }
+     ]
+    },
+    {
+     "song_id": 225,
+     "song_name": "Captives",
+     "length": 182,
+     "artists": [
+      {
+       "artist_id": 49,
+       "artist_name": "Irvine Faircley",
+       "country": "Indonesia"
+      },
+      {
+       "artist_id": 29,
+       "artist_name": "Morty Ocklin",
+       "country": "China"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "album_id": 14,
+   "album_name": "Asoka",
+   "release_year": 2012,
+   "artists": [
+    {
+     "artist_id": 26,
+     "artist_name": "Kahaleel Westcot",
+     "country": "Sweden"
+    },
+    {
+     "artist_id": 45,
+     "artist_name": "Danika Callan",
+     "country": "Russia"
+    }
+   ],
+   "songs": [
+    {
+     "song_id": 342,
+     "song_name": "Washington Square",
+     "length": 159,
+     "artists": [
+      {
+       "artist_id": 36,
+       "artist_name": "Sidoney Plaice",
+       "country": "China"
+      }
+     ]
+    },
+    {
+     "song_id": 192,
+     "song_name": "Tunnel, The",
+     "length": 152,
+     "artists": [
+      {
+       "artist_id": 26,
+       "artist_name": "Kahaleel Westcot",
+       "country": "Sweden"
+      },
+      {
+       "artist_id": 45,
+       "artist_name": "Danika Callan",
+       "country": "Russia"
+      }
+     ]
+    },
+    {
+     "song_id": 10,
+     "song_name": "Major League: Back to the Minors",
+     "length": 192,
+     "artists": [
+      {
+       "artist_id": 6,
+       "artist_name": "Caitrin Beggio",
+       "country": "Brazil"
+      },
+      {
+       "artist_id": 15,
+       "artist_name": "Carol Purchon",
+       "country": "Peru"
+      }
+     ]
+    },
+    {
+     "song_id": 106,
+     "song_name": "True Heart Susie",
+     "length": 245,
+     "artists": [
+      {
+       "artist_id": 43,
+       "artist_name": "Dionne Haste",
+       "country": "Brazil"
+      },
+      {
+       "artist_id": 46,
+       "artist_name": "Adrien Shutler",
+       "country": "Sweden"
+      },
+      {
+       "artist_id": 32,
+       "artist_name": "Josselyn Bockett",
+       "country": "China"
+      }
+     ]
+    },
+    {
+     "song_id": 159,
+     "song_name": "Vincent: A Life in Color",
+     "length": 155,
+     "artists": [
+      {
+       "artist_id": 43,
+       "artist_name": "Dionne Haste",
+       "country": "Brazil"
+      }
+     ]
+    },
+    {
+     "song_id": 31,
+     "song_name": "Troop Beverly Hills",
+     "length": 270,
+     "artists": [
+      {
+       "artist_id": 36,
+       "artist_name": "Sidoney Plaice",
+       "country": "China"
+      },
+      {
+       "artist_id": 35,
+       "artist_name": "Jannel Brophy",
+       "country": "Peru"
+      },
+      {
+       "artist_id": 17,
+       "artist_name": "Beverlee Wilbore",
+       "country": "Denmark"
+      }
+     ]
+    },
+    {
+     "song_id": 73,
+     "song_name": "Redwood Highway",
+     "length": 153,
+     "artists": [
+      {
+       "artist_id": 2,
+       "artist_name": "Elinor Comben",
+       "country": "Indonesia"
+      },
+      {
+       "artist_id": 38,
+       "artist_name": "Tabina De Filippi",
+       "country": "Russia"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "album_id": 15,
+   "album_name": "Subin",
+   "release_year": 1993,
+   "artists": [
+    {
+     "artist_id": 24,
+     "artist_name": "Candide Kelleher",
+     "country": "China"
+    },
+    {
+     "artist_id": 29,
+     "artist_name": "Morty Ocklin",
+     "country": "China"
+    },
+    {
+     "artist_id": 34,
+     "artist_name": "Quinn Letty",
+     "country": "Saudi Arabia"
+    }
+   ],
+   "songs": [
+    {
+     "song_id": 307,
+     "song_name": "Rich and Strange",
+     "length": 148,
+     "artists": [
+      {
+       "artist_id": 45,
+       "artist_name": "Danika Callan",
+       "country": "Russia"
+      }
+     ]
+    },
+    {
+     "song_id": 69,
+     "song_name": "Idolmaker, The",
+     "length": 201,
+     "artists": [
+      {
+       "artist_id": 24,
+       "artist_name": "Candide Kelleher",
+       "country": "China"
+      },
+      {
+       "artist_id": 29,
+       "artist_name": "Morty Ocklin",
+       "country": "China"
+      },
+      {
+       "artist_id": 34,
+       "artist_name": "Quinn Letty",
+       "country": "Saudi Arabia"
+      }
+     ]
+    },
+    {
+     "song_id": 442,
+     "song_name": "Gangs of New York",
+     "length": 214,
+     "artists": [
+      {
+       "artist_id": 26,
+       "artist_name": "Kahaleel Westcot",
+       "country": "Sweden"
+      },
+      {
+       "artist_id": 42,
+       "artist_name": "Bink Cumes",
+       "country": "Russia"
+      },
+      {
+       "artist_id": 6,
+       "artist_name": "Caitrin Beggio",
+       "country": "Brazil"
+      }
+     ]
+    },
+    {
+     "song_id": 38,
+     "song_name": "Zulu",
+     "length": 242,
+     "artists": [
+      {
+       "artist_id": 39,
+       "artist_name": "Adan Adie",
+       "country": "Democratic Republic of the Congo"
+      },
+      {
+       "artist_id": 5,
+       "artist_name": "Kesley Shepstone",
+       "country": "Ukraine"
+      }
+     ]
+    },
+    {
+     "song_id": 279,
+     "song_name": "Bourne Legacy, The",
+     "length": 183,
+     "artists": [
+      {
+       "artist_id": 44,
+       "artist_name": "Megan Rizzini",
+       "country": "United States"
+      },
+      {
+       "artist_id": 25,
+       "artist_name": "Helena Dowzell",
+       "country": "Japan"
+      },
+      {
+       "artist_id": 26,
+       "artist_name": "Kahaleel Westcot",
+       "country": "Sweden"
+      }
+     ]
+    },
+    {
+     "song_id": 262,
+     "song_name": "Diary of a Chambermaid, The",
+     "length": 212,
+     "artists": [
+      {
+       "artist_id": 17,
+       "artist_name": "Beverlee Wilbore",
+       "country": "Denmark"
+      },
+      {
+       "artist_id": 6,
+       "artist_name": "Caitrin Beggio",
+       "country": "Brazil"
+      }
+     ]
+    },
+    {
+     "song_id": 459,
+     "song_name": "Toy Story Toons: Hawaiian Vacation",
+     "length": 232,
+     "artists": [
+      {
+       "artist_id": 25,
+       "artist_name": "Helena Dowzell",
+       "country": "Japan"
+      },
+      {
+       "artist_id": 40,
+       "artist_name": "Westbrook Vye",
+       "country": "Indonesia"
+      },
+      {
+       "artist_id": 44,
+       "artist_name": "Megan Rizzini",
+       "country": "United States"
+      }
+     ]
+    },
+    {
+     "song_id": 215,
+     "song_name": "Riot in Cell Block 11",
+     "length": 160,
+     "artists": [
+      {
+       "artist_id": 25,
+       "artist_name": "Helena Dowzell",
+       "country": "Japan"
+      },
+      {
+       "artist_id": 32,
+       "artist_name": "Josselyn Bockett",
+       "country": "China"
+      },
+      {
+       "artist_id": 26,
+       "artist_name": "Kahaleel Westcot",
+       "country": "Sweden"
+      }
+     ]
+    },
+    {
+     "song_id": 300,
+     "song_name": "My Sassy Girl (Yeopgijeogin geunyeo)",
+     "length": 185,
+     "artists": [
+      {
+       "artist_id": 14,
+       "artist_name": "Ester Grazier",
+       "country": "Brazil"
+      },
+      {
+       "artist_id": 23,
+       "artist_name": "Errick Bulteel",
+       "country": "China"
+      }
+     ]
+    },
+    {
+     "song_id": 13,
+     "song_name": "Dead Heat",
+     "length": 168,
+     "artists": [
+      {
+       "artist_id": 11,
+       "artist_name": "Shawn Lamperd",
+       "country": "Estonia"
+      },
+      {
+       "artist_id": 24,
+       "artist_name": "Candide Kelleher",
+       "country": "China"
+      }
+     ]
+    },
+    {
+     "song_id": 401,
+     "song_name": "'Round Midnight",
+     "length": 195,
+     "artists": [
+      {
+       "artist_id": 14,
+       "artist_name": "Ester Grazier",
+       "country": "Brazil"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "album_id": 16,
+   "album_name": "Pannier",
+   "release_year": 2009,
+   "artists": [
+    {
+     "artist_id": 18,
+     "artist_name": "Chariot Bathoe",
+     "country": "China"
+    }
+   ],
+   "songs": [
+    {
+     "song_id": 295,
+     "song_name": "In Crowd, The",
+     "length": 196,
+     "artists": [
+      {
+       "artist_id": 18,
+       "artist_name": "Chariot Bathoe",
+       "country": "China"
+      }
+     ]
+    },
+    {
+     "song_id": 135,
+     "song_name": "I Inside, The",
+     "length": 257,
+     "artists": [
+      {
+       "artist_id": 35,
+       "artist_name": "Jannel Brophy",
+       "country": "Peru"
+      },
+      {
+       "artist_id": 46,
+       "artist_name": "Adrien Shutler",
+       "country": "Sweden"
+      }
+     ]
+    },
+    {
+     "song_id": 360,
+     "song_name": "Secret Garden, The",
+     "length": 205,
+     "artists": [
+      {
+       "artist_id": 19,
+       "artist_name": "Shep Beincken",
+       "country": "Indonesia"
+      },
+      {
+       "artist_id": 45,
+       "artist_name": "Danika Callan",
+       "country": "Russia"
+      },
+      {
+       "artist_id": 30,
+       "artist_name": "Imogene Horley",
+       "country": "Poland"
+      }
+     ]
+    },
+    {
+     "song_id": 27,
+     "song_name": "Stunt Man, The",
+     "length": 227,
+     "artists": [
+      {
+       "artist_id": 46,
+       "artist_name": "Adrien Shutler",
+       "country": "Sweden"
+      },
+      {
+       "artist_id": 21,
+       "artist_name": "Normie Casillas",
+       "country": "China"
+      },
+      {
+       "artist_id": 14,
+       "artist_name": "Ester Grazier",
+       "country": "Brazil"
+      }
+     ]
+    },
+    {
+     "song_id": 431,
+     "song_name": "Only Old Men Are Going to Battle (V boy idut odni stariki)",
+     "length": 195,
+     "artists": [
+      {
+       "artist_id": 43,
+       "artist_name": "Dionne Haste",
+       "country": "Brazil"
+      },
+      {
+       "artist_id": 42,
+       "artist_name": "Bink Cumes",
+       "country": "Russia"
+      }
+     ]
+    },
+    {
+     "song_id": 463,
+     "song_name": "Jason Goes to Hell: The Final Friday",
+     "length": 196,
+     "artists": [
+      {
+       "artist_id": 30,
+       "artist_name": "Imogene Horley",
+       "country": "Poland"
+      }
+     ]
+    },
+    {
+     "song_id": 392,
+     "song_name": "One Man Band",
+     "length": 223,
+     "artists": [
+      {
+       "artist_id": 43,
+       "artist_name": "Dionne Haste",
+       "country": "Brazil"
+      },
+      {
+       "artist_id": 26,
+       "artist_name": "Kahaleel Westcot",
+       "country": "Sweden"
+      }
+     ]
+    },
+    {
+     "song_id": 304,
+     "song_name": "My Name Is Julia Ross",
+     "length": 209,
+     "artists": [
+      {
+       "artist_id": 6,
+       "artist_name": "Caitrin Beggio",
+       "country": "Brazil"
+      }
+     ]
+    },
+    {
+     "song_id": 179,
+     "song_name": "Winchester '73",
+     "length": 193,
+     "artists": [
+      {
+       "artist_id": 28,
+       "artist_name": "Geoffry Postians",
+       "country": "Croatia"
+      },
+      {
+       "artist_id": 23,
+       "artist_name": "Errick Bulteel",
+       "country": "China"
+      },
+      {
+       "artist_id": 47,
+       "artist_name": "Darcee Janouch",
+       "country": "Indonesia"
+      }
+     ]
+    },
+    {
+     "song_id": 270,
+     "song_name": "Green Card",
+     "length": 186,
+     "artists": [
+      {
+       "artist_id": 10,
+       "artist_name": "Gianni Blodg",
+       "country": "China"
+      },
+      {
+       "artist_id": 16,
+       "artist_name": "Derrick Carus",
+       "country": "Norway"
+      },
+      {
+       "artist_id": 9,
+       "artist_name": "Dion Minifie",
+       "country": "France"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "album_id": 17,
+   "album_name": "Fixflex",
+   "release_year": 2009,
+   "artists": [
+    {
+     "artist_id": 44,
+     "artist_name": "Megan Rizzini",
+     "country": "United States"
+    }
+   ],
+   "songs": [
+    {
+     "song_id": 281,
+     "song_name": "Het Vonnis",
+     "length": 159,
+     "artists": [
+      {
+       "artist_id": 41,
+       "artist_name": "Melamie Sousa",
+       "country": "Peru"
+      },
+      {
+       "artist_id": 16,
+       "artist_name": "Derrick Carus",
+       "country": "Norway"
+      },
+      {
+       "artist_id": 7,
+       "artist_name": "Heall Clelle",
+       "country": "China"
+      }
+     ]
+    },
+    {
+     "song_id": 497,
+     "song_name": "Dances with Wolves",
+     "length": 234,
+     "artists": [
+      {
+       "artist_id": 44,
+       "artist_name": "Megan Rizzini",
+       "country": "United States"
+      }
+     ]
+    },
+    {
+     "song_id": 236,
+     "song_name": "American: The Bill Hicks Story",
+     "length": 178,
+     "artists": [
+      {
+       "artist_id": 15,
+       "artist_name": "Carol Purchon",
+       "country": "Peru"
+      }
+     ]
+    },
+    {
+     "song_id": 44,
+     "song_name": "Sarah Silverman: Jesus Is Magic",
+     "length": 213,
+     "artists": [
+      {
+       "artist_id": 22,
+       "artist_name": "Devon Cozby",
+       "country": "Russia"
+      },
+      {
+       "artist_id": 8,
+       "artist_name": "Catriona Suff",
+       "country": "China"
+      },
+      {
+       "artist_id": 19,
+       "artist_name": "Shep Beincken",
+       "country": "Indonesia"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "album_id": 18,
+   "album_name": "Prodder",
+   "release_year": 1995,
+   "artists": [
+    {
+     "artist_id": 7,
+     "artist_name": "Heall Clelle",
+     "country": "China"
+    },
+    {
+     "artist_id": 28,
+     "artist_name": "Geoffry Postians",
+     "country": "Croatia"
+    }
+   ],
+   "songs": [
+    {
+     "song_id": 287,
+     "song_name": "Manon of the Spring (Manon des sources)",
+     "length": 189,
+     "artists": [
+      {
+       "artist_id": 7,
+       "artist_name": "Heall Clelle",
+       "country": "China"
+      },
+      {
+       "artist_id": 28,
+       "artist_name": "Geoffry Postians",
+       "country": "Croatia"
+      }
+     ]
+    },
+    {
+     "song_id": 423,
+     "song_name": "They Have Escaped (He ovat paenneet)",
+     "length": 175,
+     "artists": [
+      {
+       "artist_id": 10,
+       "artist_name": "Gianni Blodg",
+       "country": "China"
+      },
+      {
+       "artist_id": 29,
+       "artist_name": "Morty Ocklin",
+       "country": "China"
+      }
+     ]
+    },
+    {
+     "song_id": 260,
+     "song_name": "Out Late ",
+     "length": 174,
+     "artists": [
+      {
+       "artist_id": 22,
+       "artist_name": "Devon Cozby",
+       "country": "Russia"
+      },
+      {
+       "artist_id": 49,
+       "artist_name": "Irvine Faircley",
+       "country": "Indonesia"
+      }
+     ]
+    },
+    {
+     "song_id": 43,
+     "song_name": "Anne Frank Remembered",
+     "length": 220,
+     "artists": [
+      {
+       "artist_id": 49,
+       "artist_name": "Irvine Faircley",
+       "country": "Indonesia"
+      },
+      {
+       "artist_id": 18,
+       "artist_name": "Chariot Bathoe",
+       "country": "China"
+      },
+      {
+       "artist_id": 50,
+       "artist_name": "Barde Schoenrock",
+       "country": "China"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "album_id": 19,
+   "album_name": "Y-find",
+   "release_year": 1998,
+   "artists": [
+    {
+     "artist_id": 42,
+     "artist_name": "Bink Cumes",
+     "country": "Russia"
+    }
+   ],
+   "songs": [
+    {
+     "song_id": 357,
+     "song_name": "Oliver Twist",
+     "length": 209,
+     "artists": [
+      {
+       "artist_id": 45,
+       "artist_name": "Danika Callan",
+       "country": "Russia"
+      },
+      {
+       "artist_id": 39,
+       "artist_name": "Adan Adie",
+       "country": "Democratic Republic of the Congo"
+      }
+     ]
+    },
+    {
+     "song_id": 92,
+     "song_name": "Edge of Love, The",
+     "length": 213,
+     "artists": [
+      {
+       "artist_id": 13,
+       "artist_name": "Anstice Carncross",
+       "country": "Thailand"
+      }
+     ]
+    },
+    {
+     "song_id": 39,
+     "song_name": "Yeti: The Giant of the 20th Century",
+     "length": 235,
+     "artists": [
+      {
+       "artist_id": 25,
+       "artist_name": "Helena Dowzell",
+       "country": "Japan"
+      },
+      {
+       "artist_id": 39,
+       "artist_name": "Adan Adie",
+       "country": "Democratic Republic of the Congo"
+      }
+     ]
+    },
+    {
+     "song_id": 78,
+     "song_name": "Ethan Frome",
+     "length": 163,
+     "artists": [
+      {
+       "artist_id": 33,
+       "artist_name": "Fanechka Stainson",
+       "country": "Brazil"
+      }
+     ]
+    },
+    {
+     "song_id": 164,
+     "song_name": "Invisible Ghost",
+     "length": 230,
+     "artists": [
+      {
+       "artist_id": 2,
+       "artist_name": "Elinor Comben",
+       "country": "Indonesia"
+      },
+      {
+       "artist_id": 12,
+       "artist_name": "Pace McMychem",
+       "country": "China"
+      }
+     ]
+    },
+    {
+     "song_id": 365,
+     "song_name": "Thomas and the Magic Railroad",
+     "length": 249,
+     "artists": [
+      {
+       "artist_id": 42,
+       "artist_name": "Bink Cumes",
+       "country": "Russia"
+      }
+     ]
+    },
+    {
+     "song_id": 375,
+     "song_name": "Pushing Tin",
+     "length": 181,
+     "artists": [
+      {
+       "artist_id": 3,
+       "artist_name": "Vin Mish",
+       "country": "Lithuania"
+      },
+      {
+       "artist_id": 28,
+       "artist_name": "Geoffry Postians",
+       "country": "Croatia"
+      },
+      {
+       "artist_id": 48,
+       "artist_name": "Lexy Belding",
+       "country": "South Korea"
+      }
+     ]
+    },
+    {
+     "song_id": 340,
+     "song_name": "Strange Bedfellows",
+     "length": 125,
+     "artists": [
+      {
+       "artist_id": 37,
+       "artist_name": "Leonore Giacopazzi",
+       "country": "China"
+      }
+     ]
+    },
+    {
+     "song_id": 417,
+     "song_name": "East-West (Est-ouest)",
+     "length": 214,
+     "artists": [
+      {
+       "artist_id": 10,
+       "artist_name": "Gianni Blodg",
+       "country": "China"
+      },
+      {
+       "artist_id": 25,
+       "artist_name": "Helena Dowzell",
+       "country": "Japan"
+      },
+      {
+       "artist_id": 13,
+       "artist_name": "Anstice Carncross",
+       "country": "Thailand"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "album_id": 20,
+   "album_name": "Span",
+   "release_year": 2010,
+   "artists": [
+    {
+     "artist_id": 29,
+     "artist_name": "Morty Ocklin",
+     "country": "China"
+    },
+    {
+     "artist_id": 2,
+     "artist_name": "Elinor Comben",
+     "country": "Indonesia"
+    }
+   ],
+   "songs": [
+    {
+     "song_id": 348,
+     "song_name": "Closer to the Moon",
+     "length": 182,
+     "artists": [
+      {
+       "artist_id": 4,
+       "artist_name": "Gabriele Djakovic",
+       "country": "Russia"
+      },
+      {
+       "artist_id": 40,
+       "artist_name": "Westbrook Vye",
+       "country": "Indonesia"
+      },
+      {
+       "artist_id": 48,
+       "artist_name": "Lexy Belding",
+       "country": "South Korea"
+      }
+     ]
+    },
+    {
+     "song_id": 309,
+     "song_name": "Thrill of It All, The",
+     "length": 220,
+     "artists": [
+      {
+       "artist_id": 29,
+       "artist_name": "Morty Ocklin",
+       "country": "China"
+      },
+      {
+       "artist_id": 2,
+       "artist_name": "Elinor Comben",
+       "country": "Indonesia"
+      }
+     ]
+    },
+    {
+     "song_id": 174,
+     "song_name": "Shallow Hal",
+     "length": 205,
+     "artists": [
+      {
+       "artist_id": 23,
+       "artist_name": "Errick Bulteel",
+       "country": "China"
+      },
+      {
+       "artist_id": 42,
+       "artist_name": "Bink Cumes",
+       "country": "Russia"
+      }
+     ]
+    },
+    {
+     "song_id": 265,
+     "song_name": "Ice Cream Man",
+     "length": 253,
+     "artists": [
+      {
+       "artist_id": 5,
+       "artist_name": "Kesley Shepstone",
+       "country": "Ukraine"
+      },
+      {
+       "artist_id": 50,
+       "artist_name": "Barde Schoenrock",
+       "country": "China"
+      },
+      {
+       "artist_id": 42,
+       "artist_name": "Bink Cumes",
+       "country": "Russia"
+      }
+     ]
+    },
+    {
+     "song_id": 296,
+     "song_name": "Earth vs. The Spider",
+     "length": 256,
+     "artists": [
+      {
+       "artist_id": 16,
+       "artist_name": "Derrick Carus",
+       "country": "Norway"
+      },
+      {
+       "artist_id": 49,
+       "artist_name": "Irvine Faircley",
+       "country": "Indonesia"
+      }
+     ]
+    },
+    {
+     "song_id": 354,
+     "song_name": "Love You You",
+     "length": 199,
+     "artists": [
+      {
+       "artist_id": 36,
+       "artist_name": "Sidoney Plaice",
+       "country": "China"
+      }
+     ]
+    },
+    {
+     "song_id": 253,
+     "song_name": "To Hell and Back",
+     "length": 198,
+     "artists": [
+      {
+       "artist_id": 9,
+       "artist_name": "Dion Minifie",
+       "country": "France"
+      },
+      {
+       "artist_id": 40,
+       "artist_name": "Westbrook Vye",
+       "country": "Indonesia"
+      }
+     ]
+    },
+    {
+     "song_id": 60,
+     "song_name": "Sombre",
+     "length": 241,
+     "artists": [
+      {
+       "artist_id": 16,
+       "artist_name": "Derrick Carus",
+       "country": "Norway"
+      }
+     ]
+    },
+    {
+     "song_id": 469,
+     "song_name": "Boys Don't Cry",
+     "length": 212,
+     "artists": [
+      {
+       "artist_id": 17,
+       "artist_name": "Beverlee Wilbore",
+       "country": "Denmark"
+      },
+      {
+       "artist_id": 30,
+       "artist_name": "Imogene Horley",
+       "country": "Poland"
+      },
+      {
+       "artist_id": 20,
+       "artist_name": "Andi Leborgne",
+       "country": "China"
+      }
+     ]
+    },
+    {
+     "song_id": 68,
+     "song_name": "Black Magic (Meeting at Midnight) (Charlie Chan in Meeting at Midnight) (Charlie Chan in Black Magic)",
+     "length": 214,
+     "artists": [
+      {
+       "artist_id": 26,
+       "artist_name": "Kahaleel Westcot",
+       "country": "Sweden"
+      },
+      {
+       "artist_id": 43,
+       "artist_name": "Dionne Haste",
+       "country": "Brazil"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "album_id": 21,
+   "album_name": "Overhold",
+   "release_year": 1990,
+   "artists": [
+    {
+     "artist_id": 2,
+     "artist_name": "Elinor Comben",
+     "country": "Indonesia"
+    },
+    {
+     "artist_id": 49,
+     "artist_name": "Irvine Faircley",
+     "country": "Indonesia"
+    },
+    {
+     "artist_id": 37,
+     "artist_name": "Leonore Giacopazzi",
+     "country": "China"
+    }
+   ],
+   "songs": [
+    {
+     "song_id": 253,
+     "song_name": "To Hell and Back",
+     "length": 198,
+     "artists": [
+      {
+       "artist_id": 9,
+       "artist_name": "Dion Minifie",
+       "country": "France"
+      },
+      {
+       "artist_id": 40,
+       "artist_name": "Westbrook Vye",
+       "country": "Indonesia"
+      }
+     ]
+    },
+    {
+     "song_id": 264,
+     "song_name": "Mr. Conservative: Goldwater on Goldwater",
+     "length": 164,
+     "artists": [
+      {
+       "artist_id": 4,
+       "artist_name": "Gabriele Djakovic",
+       "country": "Russia"
+      },
+      {
+       "artist_id": 23,
+       "artist_name": "Errick Bulteel",
+       "country": "China"
+      },
+      {
+       "artist_id": 15,
+       "artist_name": "Carol Purchon",
+       "country": "Peru"
+      }
+     ]
+    },
+    {
+     "song_id": 139,
+     "song_name": "Amanece, que no es poco",
+     "length": 207,
+     "artists": [
+      {
+       "artist_id": 17,
+       "artist_name": "Beverlee Wilbore",
+       "country": "Denmark"
+      }
+     ]
+    },
+    {
+     "song_id": 243,
+     "song_name": "Gnomeo & Juliet",
+     "length": 208,
+     "artists": [
+      {
+       "artist_id": 2,
+       "artist_name": "Elinor Comben",
+       "country": "Indonesia"
+      },
+      {
+       "artist_id": 49,
+       "artist_name": "Irvine Faircley",
+       "country": "Indonesia"
+      },
+      {
+       "artist_id": 37,
+       "artist_name": "Leonore Giacopazzi",
+       "country": "China"
+      }
+     ]
+    },
+    {
+     "song_id": 200,
+     "song_name": "Arachnophobia",
+     "length": 170,
+     "artists": [
+      {
+       "artist_id": 39,
+       "artist_name": "Adan Adie",
+       "country": "Democratic Republic of the Congo"
+      },
+      {
+       "artist_id": 42,
+       "artist_name": "Bink Cumes",
+       "country": "Russia"
+      },
+      {
+       "artist_id": 21,
+       "artist_name": "Normie Casillas",
+       "country": "China"
+      }
+     ]
+    },
+    {
+     "song_id": 487,
+     "song_name": "Sport, Sport, Sport",
+     "length": 222,
+     "artists": [
+      {
+       "artist_id": 47,
+       "artist_name": "Darcee Janouch",
+       "country": "Indonesia"
+      },
+      {
+       "artist_id": 9,
+       "artist_name": "Dion Minifie",
+       "country": "France"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "album_id": 22,
+   "album_name": "Trippledex",
+   "release_year": 2011,
+   "artists": [
+    {
+     "artist_id": 16,
+     "artist_name": "Derrick Carus",
+     "country": "Norway"
+    },
+    {
+     "artist_id": 8,
+     "artist_name": "Catriona Suff",
+     "country": "China"
+    },
+    {
+     "artist_id": 30,
+     "artist_name": "Imogene Horley",
+     "country": "Poland"
+    }
+   ],
+   "songs": [
+    {
+     "song_id": 244,
+     "song_name": "Last Minute, The",
+     "length": 202,
+     "artists": [
+      {
+       "artist_id": 31,
+       "artist_name": "Mycah Joyner",
+       "country": "Cuba"
+      },
+      {
+       "artist_id": 1,
+       "artist_name": "Miller St Clair",
+       "country": "Bulgaria"
+      }
+     ]
+    },
+    {
+     "song_id": 434,
+     "song_name": "Beast at Bay, A",
+     "length": 190,
+     "artists": [
+      {
+       "artist_id": 32,
+       "artist_name": "Josselyn Bockett",
+       "country": "China"
+      }
+     ]
+    },
+    {
+     "song_id": 57,
+     "song_name": "Under the Skin of the City (Zir-e-poost-e Shahr)",
+     "length": 210,
+     "artists": [
+      {
+       "artist_id": 2,
+       "artist_name": "Elinor Comben",
+       "country": "Indonesia"
+      },
+      {
+       "artist_id": 8,
+       "artist_name": "Catriona Suff",
+       "country": "China"
+      }
+     ]
+    },
+    {
+     "song_id": 186,
+     "song_name": "Love Exposure",
+     "length": 188,
+     "artists": [
+      {
+       "artist_id": 44,
+       "artist_name": "Megan Rizzini",
+       "country": "United States"
+      },
+      {
+       "artist_id": 47,
+       "artist_name": "Darcee Janouch",
+       "country": "Indonesia"
+      },
+      {
+       "artist_id": 48,
+       "artist_name": "Lexy Belding",
+       "country": "South Korea"
+      }
+     ]
+    },
+    {
+     "song_id": 251,
+     "song_name": "Jodhaa Akbar",
+     "length": 145,
+     "artists": [
+      {
+       "artist_id": 22,
+       "artist_name": "Devon Cozby",
+       "country": "Russia"
+      },
+      {
+       "artist_id": 43,
+       "artist_name": "Dionne Haste",
+       "country": "Brazil"
+      }
+     ]
+    },
+    {
+     "song_id": 395,
+     "song_name": "Secrets & Lies",
+     "length": 141,
+     "artists": [
+      {
+       "artist_id": 50,
+       "artist_name": "Barde Schoenrock",
+       "country": "China"
+      }
+     ]
+    },
+    {
+     "song_id": 154,
+     "song_name": "Hogfather (Terry Pratchett's Hogfather)",
+     "length": 206,
+     "artists": [
+      {
+       "artist_id": 38,
+       "artist_name": "Tabina De Filippi",
+       "country": "Russia"
+      },
+      {
+       "artist_id": 36,
+       "artist_name": "Sidoney Plaice",
+       "country": "China"
+      }
+     ]
+    },
+    {
+     "song_id": 221,
+     "song_name": "Blood Ties",
+     "length": 220,
+     "artists": [
+      {
+       "artist_id": 16,
+       "artist_name": "Derrick Carus",
+       "country": "Norway"
+      },
+      {
+       "artist_id": 8,
+       "artist_name": "Catriona Suff",
+       "country": "China"
+      },
+      {
+       "artist_id": 30,
+       "artist_name": "Imogene Horley",
+       "country": "Poland"
+      }
+     ]
+    },
+    {
+     "song_id": 95,
+     "song_name": "Beastmaster 2: Through the Portal of Time",
+     "length": 163,
+     "artists": [
+      {
+       "artist_id": 16,
+       "artist_name": "Derrick Carus",
+       "country": "Norway"
+      },
+      {
+       "artist_id": 5,
+       "artist_name": "Kesley Shepstone",
+       "country": "Ukraine"
+      }
+     ]
+    },
+    {
+     "song_id": 117,
+     "song_name": "Letter, The",
+     "length": 201,
+     "artists": [
+      {
+       "artist_id": 38,
+       "artist_name": "Tabina De Filippi",
+       "country": "Russia"
+      }
+     ]
+    },
+    {
+     "song_id": 156,
+     "song_name": "Samurai Cop",
+     "length": 253,
+     "artists": [
+      {
+       "artist_id": 3,
+       "artist_name": "Vin Mish",
+       "country": "Lithuania"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "album_id": 23,
+   "album_name": "Alpha",
+   "release_year": 1997,
+   "artists": [
+    {
+     "artist_id": 1,
+     "artist_name": "Miller St Clair",
+     "country": "Bulgaria"
+    },
+    {
+     "artist_id": 39,
+     "artist_name": "Adan Adie",
+     "country": "Democratic Republic of the Congo"
+    },
+    {
+     "artist_id": 21,
+     "artist_name": "Normie Casillas",
+     "country": "China"
+    }
+   ],
+   "songs": [
+    {
+     "song_id": 55,
+     "song_name": "Bridge to Nowhere, The",
+     "length": 216,
+     "artists": [
+      {
+       "artist_id": 35,
+       "artist_name": "Jannel Brophy",
+       "country": "Peru"
+      }
+     ]
+    },
+    {
+     "song_id": 489,
+     "song_name": "War of the Worlds, The",
+     "length": 227,
+     "artists": [
+      {
+       "artist_id": 48,
+       "artist_name": "Lexy Belding",
+       "country": "South Korea"
+      },
+      {
+       "artist_id": 27,
+       "artist_name": "Cass Hudson",
+       "country": "Poland"
+      }
+     ]
+    },
+    {
+     "song_id": 49,
+     "song_name": "According to Greta",
+     "length": 221,
+     "artists": [
+      {
+       "artist_id": 41,
+       "artist_name": "Melamie Sousa",
+       "country": "Peru"
+      }
+     ]
+    },
+    {
+     "song_id": 56,
+     "song_name": "Valley of the Bees (\u00dadol\u00ed vcel)",
+     "length": 212,
+     "artists": [
+      {
+       "artist_id": 1,
+       "artist_name": "Miller St Clair",
+       "country": "Bulgaria"
+      },
+      {
+       "artist_id": 39,
+       "artist_name": "Adan Adie",
+       "country": "Democratic Republic of the Congo"
+      },
+      {
+       "artist_id": 21,
+       "artist_name": "Normie Casillas",
+       "country": "China"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "album_id": 24,
+   "album_name": "Transcof",
+   "release_year": 2001,
+   "artists": [
+    {
+     "artist_id": 27,
+     "artist_name": "Cass Hudson",
+     "country": "Poland"
+    }
+   ],
+   "songs": [
+    {
+     "song_id": 442,
+     "song_name": "Gangs of New York",
+     "length": 214,
+     "artists": [
+      {
+       "artist_id": 26,
+       "artist_name": "Kahaleel Westcot",
+       "country": "Sweden"
+      },
+      {
+       "artist_id": 42,
+       "artist_name": "Bink Cumes",
+       "country": "Russia"
+      },
+      {
+       "artist_id": 6,
+       "artist_name": "Caitrin Beggio",
+       "country": "Brazil"
+      }
+     ]
+    },
+    {
+     "song_id": 439,
+     "song_name": "Godzilla vs. Destroyah (Gojira vs. Desutoroi\u00e2) ",
+     "length": 236,
+     "artists": [
+      {
+       "artist_id": 27,
+       "artist_name": "Cass Hudson",
+       "country": "Poland"
+      }
+     ]
+    },
+    {
+     "song_id": 220,
+     "song_name": "Criminals",
+     "length": 226,
+     "artists": [
+      {
+       "artist_id": 34,
+       "artist_name": "Quinn Letty",
+       "country": "Saudi Arabia"
+      },
+      {
+       "artist_id": 30,
+       "artist_name": "Imogene Horley",
+       "country": "Poland"
+      },
+      {
+       "artist_id": 4,
+       "artist_name": "Gabriele Djakovic",
+       "country": "Russia"
+      }
+     ]
+    },
+    {
+     "song_id": 479,
+     "song_name": "No Reservations",
+     "length": 200,
+     "artists": [
+      {
+       "artist_id": 15,
+       "artist_name": "Carol Purchon",
+       "country": "Peru"
+      },
+      {
+       "artist_id": 41,
+       "artist_name": "Melamie Sousa",
+       "country": "Peru"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "album_id": 25,
+   "album_name": "Span",
+   "release_year": 1987,
+   "artists": [
+    {
+     "artist_id": 25,
+     "artist_name": "Helena Dowzell",
+     "country": "Japan"
+    },
+    {
+     "artist_id": 44,
+     "artist_name": "Megan Rizzini",
+     "country": "United States"
+    },
+    {
+     "artist_id": 48,
+     "artist_name": "Lexy Belding",
+     "country": "South Korea"
+    }
+   ],
+   "songs": [
+    {
+     "song_id": 341,
+     "song_name": "Smokin' Aces 2: Assassins' Ball",
+     "length": 171,
+     "artists": [
+      {
+       "artist_id": 6,
+       "artist_name": "Caitrin Beggio",
+       "country": "Brazil"
+      },
+      {
+       "artist_id": 16,
+       "artist_name": "Derrick Carus",
+       "country": "Norway"
+      }
+     ]
+    },
+    {
+     "song_id": 328,
+     "song_name": "The Hound of the Baskervilles",
+     "length": 209,
+     "artists": [
+      {
+       "artist_id": 46,
+       "artist_name": "Adrien Shutler",
+       "country": "Sweden"
+      }
+     ]
+    },
+    {
+     "song_id": 195,
+     "song_name": "Book Thief, The",
+     "length": 238,
+     "artists": [
+      {
+       "artist_id": 25,
+       "artist_name": "Helena Dowzell",
+       "country": "Japan"
+      },
+      {
+       "artist_id": 44,
+       "artist_name": "Megan Rizzini",
+       "country": "United States"
+      },
+      {
+       "artist_id": 48,
+       "artist_name": "Lexy Belding",
+       "country": "South Korea"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "album_id": 26,
+   "album_name": "Ronstring",
+   "release_year": 1999,
+   "artists": [
+    {
+     "artist_id": 49,
+     "artist_name": "Irvine Faircley",
+     "country": "Indonesia"
+    },
+    {
+     "artist_id": 32,
+     "artist_name": "Josselyn Bockett",
+     "country": "China"
+    },
+    {
+     "artist_id": 35,
+     "artist_name": "Jannel Brophy",
+     "country": "Peru"
+    }
+   ],
+   "songs": [
+    {
+     "song_id": 242,
+     "song_name": "Shadows in Paradise (Varjoja paratiisissa)",
+     "length": 187,
+     "artists": [
+      {
+       "artist_id": 50,
+       "artist_name": "Barde Schoenrock",
+       "country": "China"
+      },
+      {
+       "artist_id": 38,
+       "artist_name": "Tabina De Filippi",
+       "country": "Russia"
+      }
+     ]
+    },
+    {
+     "song_id": 210,
+     "song_name": "Until September",
+     "length": 188,
+     "artists": [
+      {
+       "artist_id": 16,
+       "artist_name": "Derrick Carus",
+       "country": "Norway"
+      }
+     ]
+    },
+    {
+     "song_id": 395,
+     "song_name": "Secrets & Lies",
+     "length": 141,
+     "artists": [
+      {
+       "artist_id": 50,
+       "artist_name": "Barde Schoenrock",
+       "country": "China"
+      }
+     ]
+    },
+    {
+     "song_id": 445,
+     "song_name": "Love Forbidden (D\u00e9fense d'aimer)",
+     "length": 225,
+     "artists": [
+      {
+       "artist_id": 49,
+       "artist_name": "Irvine Faircley",
+       "country": "Indonesia"
+      },
+      {
+       "artist_id": 32,
+       "artist_name": "Josselyn Bockett",
+       "country": "China"
+      },
+      {
+       "artist_id": 35,
+       "artist_name": "Jannel Brophy",
+       "country": "Peru"
+      }
+     ]
+    },
+    {
+     "song_id": 149,
+     "song_name": "Captive, The (Prisonni\u00e8re, La)",
+     "length": 186,
+     "artists": [
+      {
+       "artist_id": 11,
+       "artist_name": "Shawn Lamperd",
+       "country": "Estonia"
+      },
+      {
+       "artist_id": 48,
+       "artist_name": "Lexy Belding",
+       "country": "South Korea"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "album_id": 27,
+   "album_name": "Konklux",
+   "release_year": 2011,
+   "artists": [
+    {
+     "artist_id": 17,
+     "artist_name": "Beverlee Wilbore",
+     "country": "Denmark"
+    }
+   ],
+   "songs": [
+    {
+     "song_id": 171,
+     "song_name": "Back to the Future Part III",
+     "length": 195,
+     "artists": [
+      {
+       "artist_id": 43,
+       "artist_name": "Dionne Haste",
+       "country": "Brazil"
+      }
+     ]
+    },
+    {
+     "song_id": 352,
+     "song_name": "Flicker (Flimmer)",
+     "length": 155,
+     "artists": [
+      {
+       "artist_id": 17,
+       "artist_name": "Beverlee Wilbore",
+       "country": "Denmark"
+      }
+     ]
+    },
+    {
+     "song_id": 184,
+     "song_name": "Beautiful Life, A",
+     "length": 208,
+     "artists": [
+      {
+       "artist_id": 1,
+       "artist_name": "Miller St Clair",
+       "country": "Bulgaria"
+      },
+      {
+       "artist_id": 34,
+       "artist_name": "Quinn Letty",
+       "country": "Saudi Arabia"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "album_id": 28,
+   "album_name": "Rank",
+   "release_year": 1995,
+   "artists": [
+    {
+     "artist_id": 36,
+     "artist_name": "Sidoney Plaice",
+     "country": "China"
+    },
+    {
+     "artist_id": 7,
+     "artist_name": "Heall Clelle",
+     "country": "China"
+    }
+   ],
+   "songs": [
+    {
+     "song_id": 336,
+     "song_name": "Sunny (Sseo-ni)",
+     "length": 230,
+     "artists": [
+      {
+       "artist_id": 31,
+       "artist_name": "Mycah Joyner",
+       "country": "Cuba"
+      },
+      {
+       "artist_id": 8,
+       "artist_name": "Catriona Suff",
+       "country": "China"
+      }
+     ]
+    },
+    {
+     "song_id": 297,
+     "song_name": "Aspen",
+     "length": 212,
+     "artists": [
+      {
+       "artist_id": 37,
+       "artist_name": "Leonore Giacopazzi",
+       "country": "China"
+      },
+      {
+       "artist_id": 40,
+       "artist_name": "Westbrook Vye",
+       "country": "Indonesia"
+      }
+     ]
+    },
+    {
+     "song_id": 129,
+     "song_name": "Taxi Driver",
+     "length": 135,
+     "artists": [
+      {
+       "artist_id": 40,
+       "artist_name": "Westbrook Vye",
+       "country": "Indonesia"
+      },
+      {
+       "artist_id": 37,
+       "artist_name": "Leonore Giacopazzi",
+       "country": "China"
+      }
+     ]
+    },
+    {
+     "song_id": 96,
+     "song_name": "The 11 Commandments",
+     "length": 188,
+     "artists": [
+      {
+       "artist_id": 36,
+       "artist_name": "Sidoney Plaice",
+       "country": "China"
+      },
+      {
+       "artist_id": 7,
+       "artist_name": "Heall Clelle",
+       "country": "China"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "album_id": 29,
+   "album_name": "Quo Lux",
+   "release_year": 2000,
+   "artists": [
+    {
+     "artist_id": 44,
+     "artist_name": "Megan Rizzini",
+     "country": "United States"
+    }
+   ],
+   "songs": [
+    {
+     "song_id": 497,
+     "song_name": "Dances with Wolves",
+     "length": 234,
+     "artists": [
+      {
+       "artist_id": 44,
+       "artist_name": "Megan Rizzini",
+       "country": "United States"
+      }
+     ]
+    },
+    {
+     "song_id": 66,
+     "song_name": "Knights of the Round Table",
+     "length": 173,
+     "artists": [
+      {
+       "artist_id": 14,
+       "artist_name": "Ester Grazier",
+       "country": "Brazil"
+      },
+      {
+       "artist_id": 35,
+       "artist_name": "Jannel Brophy",
+       "country": "Peru"
+      }
+     ]
+    },
+    {
+     "song_id": 207,
+     "song_name": "Butterflies Are Free",
+     "length": 201,
+     "artists": [
+      {
+       "artist_id": 44,
+       "artist_name": "Megan Rizzini",
+       "country": "United States"
+      }
+     ]
+    },
+    {
+     "song_id": 496,
+     "song_name": "Killer Joe",
+     "length": 222,
+     "artists": [
+      {
+       "artist_id": 10,
+       "artist_name": "Gianni Blodg",
+       "country": "China"
+      }
+     ]
+    },
+    {
+     "song_id": 325,
+     "song_name": "When in Rome",
+     "length": 189,
+     "artists": [
+      {
+       "artist_id": 7,
+       "artist_name": "Heall Clelle",
+       "country": "China"
+      },
+      {
+       "artist_id": 13,
+       "artist_name": "Anstice Carncross",
+       "country": "Thailand"
+      }
+     ]
+    },
+    {
+     "song_id": 218,
+     "song_name": "Lenny Bruce: Swear to Tell the Truth",
+     "length": 159,
+     "artists": [
+      {
+       "artist_id": 50,
+       "artist_name": "Barde Schoenrock",
+       "country": "China"
+      }
+     ]
+    },
+    {
+     "song_id": 247,
+     "song_name": "Filth and Wisdom",
+     "length": 275,
+     "artists": [
+      {
+       "artist_id": 48,
+       "artist_name": "Lexy Belding",
+       "country": "South Korea"
+      },
+      {
+       "artist_id": 35,
+       "artist_name": "Jannel Brophy",
+       "country": "Peru"
+      },
+      {
+       "artist_id": 39,
+       "artist_name": "Adan Adie",
+       "country": "Democratic Republic of the Congo"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "album_id": 30,
+   "album_name": "Voltsillam",
+   "release_year": 2004,
+   "artists": [
+    {
+     "artist_id": 4,
+     "artist_name": "Gabriele Djakovic",
+     "country": "Russia"
+    },
+    {
+     "artist_id": 19,
+     "artist_name": "Shep Beincken",
+     "country": "Indonesia"
+    }
+   ],
+   "songs": [
+    {
+     "song_id": 334,
+     "song_name": "The Bloodstained Butterfly",
+     "length": 152,
+     "artists": [
+      {
+       "artist_id": 31,
+       "artist_name": "Mycah Joyner",
+       "country": "Cuba"
+      },
+      {
+       "artist_id": 29,
+       "artist_name": "Morty Ocklin",
+       "country": "China"
+      }
+     ]
+    },
+    {
+     "song_id": 138,
+     "song_name": "Man of No Importance, A",
+     "length": 135,
+     "artists": [
+      {
+       "artist_id": 43,
+       "artist_name": "Dionne Haste",
+       "country": "Brazil"
+      },
+      {
+       "artist_id": 7,
+       "artist_name": "Heall Clelle",
+       "country": "China"
+      }
+     ]
+    },
+    {
+     "song_id": 476,
+     "song_name": "Executioner, The",
+     "length": 208,
+     "artists": [
+      {
+       "artist_id": 39,
+       "artist_name": "Adan Adie",
+       "country": "Democratic Republic of the Congo"
+      }
+     ]
+    },
+    {
+     "song_id": 252,
+     "song_name": "Castaway Cowboy, The",
+     "length": 196,
+     "artists": [
+      {
+       "artist_id": 26,
+       "artist_name": "Kahaleel Westcot",
+       "country": "Sweden"
+      },
+      {
+       "artist_id": 47,
+       "artist_name": "Darcee Janouch",
+       "country": "Indonesia"
+      },
+      {
+       "artist_id": 11,
+       "artist_name": "Shawn Lamperd",
+       "country": "Estonia"
+      }
+     ]
+    },
+    {
+     "song_id": 496,
+     "song_name": "Killer Joe",
+     "length": 222,
+     "artists": [
+      {
+       "artist_id": 10,
+       "artist_name": "Gianni Blodg",
+       "country": "China"
+      }
+     ]
+    },
+    {
+     "song_id": 328,
+     "song_name": "The Hound of the Baskervilles",
+     "length": 209,
+     "artists": [
+      {
+       "artist_id": 46,
+       "artist_name": "Adrien Shutler",
+       "country": "Sweden"
+      }
+     ]
+    },
+    {
+     "song_id": 453,
+     "song_name": "Office Killer",
+     "length": 210,
+     "artists": [
+      {
+       "artist_id": 4,
+       "artist_name": "Gabriele Djakovic",
+       "country": "Russia"
+      },
+      {
+       "artist_id": 19,
+       "artist_name": "Shep Beincken",
+       "country": "Indonesia"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "album_id": 31,
+   "album_name": "Aerified",
+   "release_year": 2012,
+   "artists": [
+    {
+     "artist_id": 19,
+     "artist_name": "Shep Beincken",
+     "country": "Indonesia"
+    }
+   ],
+   "songs": [
+    {
+     "song_id": 357,
+     "song_name": "Oliver Twist",
+     "length": 209,
+     "artists": [
+      {
+       "artist_id": 45,
+       "artist_name": "Danika Callan",
+       "country": "Russia"
+      },
+      {
+       "artist_id": 39,
+       "artist_name": "Adan Adie",
+       "country": "Democratic Republic of the Congo"
+      }
+     ]
+    },
+    {
+     "song_id": 391,
+     "song_name": "State of Play",
+     "length": 202,
+     "artists": [
+      {
+       "artist_id": 45,
+       "artist_name": "Danika Callan",
+       "country": "Russia"
+      },
+      {
+       "artist_id": 32,
+       "artist_name": "Josselyn Bockett",
+       "country": "China"
+      }
+     ]
+    },
+    {
+     "song_id": 488,
+     "song_name": "Taking Care of Business",
+     "length": 229,
+     "artists": [
+      {
+       "artist_id": 19,
+       "artist_name": "Shep Beincken",
+       "country": "Indonesia"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "album_id": 32,
+   "album_name": "Lotstring",
+   "release_year": 2003,
+   "artists": [
+    {
+     "artist_id": 12,
+     "artist_name": "Pace McMychem",
+     "country": "China"
+    }
+   ],
+   "songs": [
+    {
+     "song_id": 19,
+     "song_name": "Horton Hears a Who!",
+     "length": 124,
+     "artists": [
+      {
+       "artist_id": 35,
+       "artist_name": "Jannel Brophy",
+       "country": "Peru"
+      }
+     ]
+    },
+    {
+     "song_id": 109,
+     "song_name": "3 Backyards",
+     "length": 165,
+     "artists": [
+      {
+       "artist_id": 48,
+       "artist_name": "Lexy Belding",
+       "country": "South Korea"
+      },
+      {
+       "artist_id": 35,
+       "artist_name": "Jannel Brophy",
+       "country": "Peru"
+      },
+      {
+       "artist_id": 4,
+       "artist_name": "Gabriele Djakovic",
+       "country": "Russia"
+      }
+     ]
+    },
+    {
+     "song_id": 163,
+     "song_name": "King of the Zombies",
+     "length": 193,
+     "artists": [
+      {
+       "artist_id": 12,
+       "artist_name": "Pace McMychem",
+       "country": "China"
+      }
+     ]
+    },
+    {
+     "song_id": 418,
+     "song_name": "Roberta",
+     "length": 202,
+     "artists": [
+      {
+       "artist_id": 33,
+       "artist_name": "Fanechka Stainson",
+       "country": "Brazil"
+      },
+      {
+       "artist_id": 48,
+       "artist_name": "Lexy Belding",
+       "country": "South Korea"
+      },
+      {
+       "artist_id": 9,
+       "artist_name": "Dion Minifie",
+       "country": "France"
+      }
+     ]
+    },
+    {
+     "song_id": 451,
+     "song_name": "Born Rich",
+     "length": 188,
+     "artists": [
+      {
+       "artist_id": 45,
+       "artist_name": "Danika Callan",
+       "country": "Russia"
+      }
+     ]
+    },
+    {
+     "song_id": 183,
+     "song_name": "Night Across the Street (La noche de enfrente)",
+     "length": 222,
+     "artists": [
+      {
+       "artist_id": 46,
+       "artist_name": "Adrien Shutler",
+       "country": "Sweden"
+      }
+     ]
+    },
+    {
+     "song_id": 200,
+     "song_name": "Arachnophobia",
+     "length": 170,
+     "artists": [
+      {
+       "artist_id": 39,
+       "artist_name": "Adan Adie",
+       "country": "Democratic Republic of the Congo"
+      },
+      {
+       "artist_id": 42,
+       "artist_name": "Bink Cumes",
+       "country": "Russia"
+      },
+      {
+       "artist_id": 21,
+       "artist_name": "Normie Casillas",
+       "country": "China"
+      }
+     ]
+    },
+    {
+     "song_id": 21,
+     "song_name": "Red: Werewolf Hunter",
+     "length": 207,
+     "artists": [
+      {
+       "artist_id": 18,
+       "artist_name": "Chariot Bathoe",
+       "country": "China"
+      },
+      {
+       "artist_id": 41,
+       "artist_name": "Melamie Sousa",
+       "country": "Peru"
+      }
+     ]
+    },
+    {
+     "song_id": 237,
+     "song_name": "Street Fighter: The Legend of Chun-Li",
+     "length": 200,
+     "artists": [
+      {
+       "artist_id": 45,
+       "artist_name": "Danika Callan",
+       "country": "Russia"
+      },
+      {
+       "artist_id": 10,
+       "artist_name": "Gianni Blodg",
+       "country": "China"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "album_id": 33,
+   "album_name": "Domainer",
+   "release_year": 2001,
+   "artists": [
+    {
+     "artist_id": 36,
+     "artist_name": "Sidoney Plaice",
+     "country": "China"
+    }
+   ],
+   "songs": [
+    {
+     "song_id": 109,
+     "song_name": "3 Backyards",
+     "length": 165,
+     "artists": [
+      {
+       "artist_id": 48,
+       "artist_name": "Lexy Belding",
+       "country": "South Korea"
+      },
+      {
+       "artist_id": 35,
+       "artist_name": "Jannel Brophy",
+       "country": "Peru"
+      },
+      {
+       "artist_id": 4,
+       "artist_name": "Gabriele Djakovic",
+       "country": "Russia"
+      }
+     ]
+    },
+    {
+     "song_id": 90,
+     "song_name": "Dark Girls",
+     "length": 247,
+     "artists": [
+      {
+       "artist_id": 47,
+       "artist_name": "Darcee Janouch",
+       "country": "Indonesia"
+      },
+      {
+       "artist_id": 22,
+       "artist_name": "Devon Cozby",
+       "country": "Russia"
+      }
+     ]
+    },
+    {
+     "song_id": 330,
+     "song_name": "From Dusk Till Dawn 2: Texas Blood Money ",
+     "length": 239,
+     "artists": [
+      {
+       "artist_id": 36,
+       "artist_name": "Sidoney Plaice",
+       "country": "China"
+      }
+     ]
+    },
+    {
+     "song_id": 61,
+     "song_name": "Dust Factory, The",
+     "length": 184,
+     "artists": [
+      {
+       "artist_id": 6,
+       "artist_name": "Caitrin Beggio",
+       "country": "Brazil"
+      },
+      {
+       "artist_id": 47,
+       "artist_name": "Darcee Janouch",
+       "country": "Indonesia"
+      },
+      {
+       "artist_id": 32,
+       "artist_name": "Josselyn Bockett",
+       "country": "China"
+      }
+     ]
+    },
+    {
+     "song_id": 113,
+     "song_name": "History of the World: Part I",
+     "length": 247,
+     "artists": [
+      {
+       "artist_id": 6,
+       "artist_name": "Caitrin Beggio",
+       "country": "Brazil"
+      },
+      {
+       "artist_id": 12,
+       "artist_name": "Pace McMychem",
+       "country": "China"
+      },
+      {
+       "artist_id": 5,
+       "artist_name": "Kesley Shepstone",
+       "country": "Ukraine"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "album_id": 34,
+   "album_name": "Prodder",
+   "release_year": 1995,
+   "artists": [
+    {
+     "artist_id": 44,
+     "artist_name": "Megan Rizzini",
+     "country": "United States"
+    },
+    {
+     "artist_id": 35,
+     "artist_name": "Jannel Brophy",
+     "country": "Peru"
+    }
+   ],
+   "songs": [
+    {
+     "song_id": 41,
+     "song_name": "When the Wind Blows",
+     "length": 209,
+     "artists": [
+      {
+       "artist_id": 1,
+       "artist_name": "Miller St Clair",
+       "country": "Bulgaria"
+      },
+      {
+       "artist_id": 44,
+       "artist_name": "Megan Rizzini",
+       "country": "United States"
+      },
+      {
+       "artist_id": 47,
+       "artist_name": "Darcee Janouch",
+       "country": "Indonesia"
+      }
+     ]
+    },
+    {
+     "song_id": 89,
+     "song_name": "Never Gonna Give You Up",
+     "length": 206,
+     "artists": [
+      {
+       "artist_id": 42,
+       "artist_name": "Bink Cumes",
+       "country": "Russia"
+      },
+      {
+       "artist_id": 7,
+       "artist_name": "Heall Clelle",
+       "country": "China"
+      },
+      {
+       "artist_id": 4,
+       "artist_name": "Gabriele Djakovic",
+       "country": "Russia"
+      }
+     ]
+    },
+    {
+     "song_id": 440,
+     "song_name": "For Heaven's Sake",
+     "length": 223,
+     "artists": [
+      {
+       "artist_id": 10,
+       "artist_name": "Gianni Blodg",
+       "country": "China"
+      },
+      {
+       "artist_id": 5,
+       "artist_name": "Kesley Shepstone",
+       "country": "Ukraine"
+      },
+      {
+       "artist_id": 31,
+       "artist_name": "Mycah Joyner",
+       "country": "Cuba"
+      }
+     ]
+    },
+    {
+     "song_id": 375,
+     "song_name": "Pushing Tin",
+     "length": 181,
+     "artists": [
+      {
+       "artist_id": 3,
+       "artist_name": "Vin Mish",
+       "country": "Lithuania"
+      },
+      {
+       "artist_id": 28,
+       "artist_name": "Geoffry Postians",
+       "country": "Croatia"
+      },
+      {
+       "artist_id": 48,
+       "artist_name": "Lexy Belding",
+       "country": "South Korea"
+      }
+     ]
+    },
+    {
+     "song_id": 20,
+     "song_name": "Money Pit, The",
+     "length": 164,
+     "artists": [
+      {
+       "artist_id": 16,
+       "artist_name": "Derrick Carus",
+       "country": "Norway"
+      },
+      {
+       "artist_id": 11,
+       "artist_name": "Shawn Lamperd",
+       "country": "Estonia"
+      },
+      {
+       "artist_id": 30,
+       "artist_name": "Imogene Horley",
+       "country": "Poland"
+      }
+     ]
+    },
+    {
+     "song_id": 55,
+     "song_name": "Bridge to Nowhere, The",
+     "length": 216,
+     "artists": [
+      {
+       "artist_id": 35,
+       "artist_name": "Jannel Brophy",
+       "country": "Peru"
+      }
+     ]
+    },
+    {
+     "song_id": 443,
+     "song_name": "Hugh Hefner: Playboy, Activist and Rebel",
+     "length": 228,
+     "artists": [
+      {
+       "artist_id": 44,
+       "artist_name": "Megan Rizzini",
+       "country": "United States"
+      },
+      {
+       "artist_id": 35,
+       "artist_name": "Jannel Brophy",
+       "country": "Peru"
+      }
+     ]
+    },
+    {
+     "song_id": 309,
+     "song_name": "Thrill of It All, The",
+     "length": 220,
+     "artists": [
+      {
+       "artist_id": 29,
+       "artist_name": "Morty Ocklin",
+       "country": "China"
+      },
+      {
+       "artist_id": 2,
+       "artist_name": "Elinor Comben",
+       "country": "Indonesia"
+      }
+     ]
+    },
+    {
+     "song_id": 132,
+     "song_name": "Such Hawks Such Hounds",
+     "length": 269,
+     "artists": [
+      {
+       "artist_id": 23,
+       "artist_name": "Errick Bulteel",
+       "country": "China"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "album_id": 35,
+   "album_name": "Y-Solowarm",
+   "release_year": 1994,
+   "artists": [
+    {
+     "artist_id": 29,
+     "artist_name": "Morty Ocklin",
+     "country": "China"
+    },
+    {
+     "artist_id": 44,
+     "artist_name": "Megan Rizzini",
+     "country": "United States"
+    }
+   ],
+   "songs": [
+    {
+     "song_id": 265,
+     "song_name": "Ice Cream Man",
+     "length": 253,
+     "artists": [
+      {
+       "artist_id": 5,
+       "artist_name": "Kesley Shepstone",
+       "country": "Ukraine"
+      },
+      {
+       "artist_id": 50,
+       "artist_name": "Barde Schoenrock",
+       "country": "China"
+      },
+      {
+       "artist_id": 42,
+       "artist_name": "Bink Cumes",
+       "country": "Russia"
+      }
+     ]
+    },
+    {
+     "song_id": 201,
+     "song_name": "Can't Hardly Wait",
+     "length": 222,
+     "artists": [
+      {
+       "artist_id": 29,
+       "artist_name": "Morty Ocklin",
+       "country": "China"
+      },
+      {
+       "artist_id": 44,
+       "artist_name": "Megan Rizzini",
+       "country": "United States"
+      }
+     ]
+    },
+    {
+     "song_id": 97,
+     "song_name": "Zone 39",
+     "length": 192,
+     "artists": [
+      {
+       "artist_id": 42,
+       "artist_name": "Bink Cumes",
+       "country": "Russia"
+      }
+     ]
+    },
+    {
+     "song_id": 219,
+     "song_name": "Dark Truth, A (Truth, The)",
+     "length": 129,
+     "artists": [
+      {
+       "artist_id": 15,
+       "artist_name": "Carol Purchon",
+       "country": "Peru"
+      },
+      {
+       "artist_id": 12,
+       "artist_name": "Pace McMychem",
+       "country": "China"
+      }
+     ]
+    },
+    {
+     "song_id": 184,
+     "song_name": "Beautiful Life, A",
+     "length": 208,
+     "artists": [
+      {
+       "artist_id": 1,
+       "artist_name": "Miller St Clair",
+       "country": "Bulgaria"
+      },
+      {
+       "artist_id": 34,
+       "artist_name": "Quinn Letty",
+       "country": "Saudi Arabia"
+      }
+     ]
+    },
+    {
+     "song_id": 428,
+     "song_name": "Alice in Wonderland",
+     "length": 192,
+     "artists": [
+      {
+       "artist_id": 50,
+       "artist_name": "Barde Schoenrock",
+       "country": "China"
+      }
+     ]
+    },
+    {
+     "song_id": 193,
+     "song_name": "Sour Grapes",
+     "length": 175,
+     "artists": [
+      {
+       "artist_id": 36,
+       "artist_name": "Sidoney Plaice",
+       "country": "China"
+      },
+      {
+       "artist_id": 9,
+       "artist_name": "Dion Minifie",
+       "country": "France"
+      }
+     ]
+    },
+    {
+     "song_id": 458,
+     "song_name": "Iceman Cometh, The",
+     "length": 187,
+     "artists": [
+      {
+       "artist_id": 6,
+       "artist_name": "Caitrin Beggio",
+       "country": "Brazil"
+      }
+     ]
+    },
+    {
+     "song_id": 331,
+     "song_name": "Armed and Dangerous",
+     "length": 238,
+     "artists": [
+      {
+       "artist_id": 45,
+       "artist_name": "Danika Callan",
+       "country": "Russia"
+      },
+      {
+       "artist_id": 9,
+       "artist_name": "Dion Minifie",
+       "country": "France"
+      }
+     ]
+    },
+    {
+     "song_id": 427,
+     "song_name": "Willard",
+     "length": 190,
+     "artists": [
+      {
+       "artist_id": 16,
+       "artist_name": "Derrick Carus",
+       "country": "Norway"
+      },
+      {
+       "artist_id": 37,
+       "artist_name": "Leonore Giacopazzi",
+       "country": "China"
+      },
+      {
+       "artist_id": 25,
+       "artist_name": "Helena Dowzell",
+       "country": "Japan"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "album_id": 36,
+   "album_name": "Regrant",
+   "release_year": 1999,
+   "artists": [
+    {
+     "artist_id": 16,
+     "artist_name": "Derrick Carus",
+     "country": "Norway"
+    }
+   ],
+   "songs": [
+    {
+     "song_id": 96,
+     "song_name": "The 11 Commandments",
+     "length": 188,
+     "artists": [
+      {
+       "artist_id": 36,
+       "artist_name": "Sidoney Plaice",
+       "country": "China"
+      },
+      {
+       "artist_id": 7,
+       "artist_name": "Heall Clelle",
+       "country": "China"
+      }
+     ]
+    },
+    {
+     "song_id": 97,
+     "song_name": "Zone 39",
+     "length": 192,
+     "artists": [
+      {
+       "artist_id": 42,
+       "artist_name": "Bink Cumes",
+       "country": "Russia"
+      }
+     ]
+    },
+    {
+     "song_id": 447,
+     "song_name": "Epitaph",
+     "length": 193,
+     "artists": [
+      {
+       "artist_id": 16,
+       "artist_name": "Derrick Carus",
+       "country": "Norway"
+      }
+     ]
+    },
+    {
+     "song_id": 54,
+     "song_name": "Mina Tannenbaum",
+     "length": 130,
+     "artists": [
+      {
+       "artist_id": 13,
+       "artist_name": "Anstice Carncross",
+       "country": "Thailand"
+      },
+      {
+       "artist_id": 10,
+       "artist_name": "Gianni Blodg",
+       "country": "China"
+      },
+      {
+       "artist_id": 24,
+       "artist_name": "Candide Kelleher",
+       "country": "China"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "album_id": 37,
+   "album_name": "Namfix",
+   "release_year": 1995,
+   "artists": [
+    {
+     "artist_id": 17,
+     "artist_name": "Beverlee Wilbore",
+     "country": "Denmark"
+    },
+    {
+     "artist_id": 33,
+     "artist_name": "Fanechka Stainson",
+     "country": "Brazil"
+    },
+    {
+     "artist_id": 49,
+     "artist_name": "Irvine Faircley",
+     "country": "Indonesia"
+    }
+   ],
+   "songs": [
+    {
+     "song_id": 400,
+     "song_name": "Tekkonkinkreet (Tekkon kinkur\u00eeto)",
+     "length": 198,
+     "artists": [
+      {
+       "artist_id": 41,
+       "artist_name": "Melamie Sousa",
+       "country": "Peru"
+      },
+      {
+       "artist_id": 29,
+       "artist_name": "Morty Ocklin",
+       "country": "China"
+      }
+     ]
+    },
+    {
+     "song_id": 47,
+     "song_name": "C.O.G.",
+     "length": 239,
+     "artists": [
+      {
+       "artist_id": 17,
+       "artist_name": "Beverlee Wilbore",
+       "country": "Denmark"
+      },
+      {
+       "artist_id": 33,
+       "artist_name": "Fanechka Stainson",
+       "country": "Brazil"
+      },
+      {
+       "artist_id": 49,
+       "artist_name": "Irvine Faircley",
+       "country": "Indonesia"
+      }
+     ]
+    },
+    {
+     "song_id": 163,
+     "song_name": "King of the Zombies",
+     "length": 193,
+     "artists": [
+      {
+       "artist_id": 12,
+       "artist_name": "Pace McMychem",
+       "country": "China"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "album_id": 38,
+   "album_name": "Tempsoft",
+   "release_year": 1993,
+   "artists": [
+    {
+     "artist_id": 23,
+     "artist_name": "Errick Bulteel",
+     "country": "China"
+    }
+   ],
+   "songs": [
+    {
+     "song_id": 284,
+     "song_name": "Gambling City",
+     "length": 184,
+     "artists": [
+      {
+       "artist_id": 35,
+       "artist_name": "Jannel Brophy",
+       "country": "Peru"
+      },
+      {
+       "artist_id": 28,
+       "artist_name": "Geoffry Postians",
+       "country": "Croatia"
+      }
+     ]
+    },
+    {
+     "song_id": 356,
+     "song_name": "Duplicate",
+     "length": 259,
+     "artists": [
+      {
+       "artist_id": 27,
+       "artist_name": "Cass Hudson",
+       "country": "Poland"
+      }
+     ]
+    },
+    {
+     "song_id": 259,
+     "song_name": "Salt of the Earth",
+     "length": 215,
+     "artists": [
+      {
+       "artist_id": 30,
+       "artist_name": "Imogene Horley",
+       "country": "Poland"
+      }
+     ]
+    },
+    {
+     "song_id": 244,
+     "song_name": "Last Minute, The",
+     "length": 202,
+     "artists": [
+      {
+       "artist_id": 31,
+       "artist_name": "Mycah Joyner",
+       "country": "Cuba"
+      },
+      {
+       "artist_id": 1,
+       "artist_name": "Miller St Clair",
+       "country": "Bulgaria"
+      }
+     ]
+    },
+    {
+     "song_id": 163,
+     "song_name": "King of the Zombies",
+     "length": 193,
+     "artists": [
+      {
+       "artist_id": 12,
+       "artist_name": "Pace McMychem",
+       "country": "China"
+      }
+     ]
+    },
+    {
+     "song_id": 132,
+     "song_name": "Such Hawks Such Hounds",
+     "length": 269,
+     "artists": [
+      {
+       "artist_id": 23,
+       "artist_name": "Errick Bulteel",
+       "country": "China"
+      }
+     ]
+    },
+    {
+     "song_id": 447,
+     "song_name": "Epitaph",
+     "length": 193,
+     "artists": [
+      {
+       "artist_id": 16,
+       "artist_name": "Derrick Carus",
+       "country": "Norway"
+      }
+     ]
+    },
+    {
+     "song_id": 300,
+     "song_name": "My Sassy Girl (Yeopgijeogin geunyeo)",
+     "length": 185,
+     "artists": [
+      {
+       "artist_id": 14,
+       "artist_name": "Ester Grazier",
+       "country": "Brazil"
+      },
+      {
+       "artist_id": 23,
+       "artist_name": "Errick Bulteel",
+       "country": "China"
+      }
+     ]
+    },
+    {
+     "song_id": 69,
+     "song_name": "Idolmaker, The",
+     "length": 201,
+     "artists": [
+      {
+       "artist_id": 24,
+       "artist_name": "Candide Kelleher",
+       "country": "China"
+      },
+      {
+       "artist_id": 29,
+       "artist_name": "Morty Ocklin",
+       "country": "China"
+      },
+      {
+       "artist_id": 34,
+       "artist_name": "Quinn Letty",
+       "country": "Saudi Arabia"
+      }
+     ]
+    },
+    {
+     "song_id": 280,
+     "song_name": "Love and Basketball",
+     "length": 296,
+     "artists": [
+      {
+       "artist_id": 13,
+       "artist_name": "Anstice Carncross",
+       "country": "Thailand"
+      },
+      {
+       "artist_id": 5,
+       "artist_name": "Kesley Shepstone",
+       "country": "Ukraine"
+      },
+      {
+       "artist_id": 38,
+       "artist_name": "Tabina De Filippi",
+       "country": "Russia"
+      }
+     ]
+    },
+    {
+     "song_id": 369,
+     "song_name": "Liar's Autobiography: The Untrue Story of Monty Python's Graham Chapman, A",
+     "length": 220,
+     "artists": [
+      {
+       "artist_id": 39,
+       "artist_name": "Adan Adie",
+       "country": "Democratic Republic of the Congo"
+      },
+      {
+       "artist_id": 48,
+       "artist_name": "Lexy Belding",
+       "country": "South Korea"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "album_id": 39,
+   "album_name": "Veribet",
+   "release_year": 1989,
+   "artists": [
+    {
+     "artist_id": 50,
+     "artist_name": "Barde Schoenrock",
+     "country": "China"
+    }
+   ],
+   "songs": [
+    {
+     "song_id": 67,
+     "song_name": "Maid, The (Nana, La)",
+     "length": 293,
+     "artists": [
+      {
+       "artist_id": 45,
+       "artist_name": "Danika Callan",
+       "country": "Russia"
+      },
+      {
+       "artist_id": 13,
+       "artist_name": "Anstice Carncross",
+       "country": "Thailand"
+      },
+      {
+       "artist_id": 46,
+       "artist_name": "Adrien Shutler",
+       "country": "Sweden"
+      }
+     ]
+    },
+    {
+     "song_id": 169,
+     "song_name": "Don't Worry, I'm Fine (Je vais bien, ne t'en fais pas)",
+     "length": 242,
+     "artists": [
+      {
+       "artist_id": 23,
+       "artist_name": "Errick Bulteel",
+       "country": "China"
+      },
+      {
+       "artist_id": 20,
+       "artist_name": "Andi Leborgne",
+       "country": "China"
+      }
+     ]
+    },
+    {
+     "song_id": 402,
+     "song_name": "Let's Not Get Angry (Ne nous f\u00e2chons pas)",
+     "length": 214,
+     "artists": [
+      {
+       "artist_id": 36,
+       "artist_name": "Sidoney Plaice",
+       "country": "China"
+      },
+      {
+       "artist_id": 9,
+       "artist_name": "Dion Minifie",
+       "country": "France"
+      }
+     ]
+    },
+    {
+     "song_id": 345,
+     "song_name": "Battle of Russia, The (Why We Fight, 5)",
+     "length": 171,
+     "artists": [
+      {
+       "artist_id": 50,
+       "artist_name": "Barde Schoenrock",
+       "country": "China"
+      }
+     ]
+    },
+    {
+     "song_id": 285,
+     "song_name": "Caught",
+     "length": 167,
+     "artists": [
+      {
+       "artist_id": 24,
+       "artist_name": "Candide Kelleher",
+       "country": "China"
+      },
+      {
+       "artist_id": 5,
+       "artist_name": "Kesley Shepstone",
+       "country": "Ukraine"
+      },
+      {
+       "artist_id": 33,
+       "artist_name": "Fanechka Stainson",
+       "country": "Brazil"
+      }
+     ]
+    },
+    {
+     "song_id": 307,
+     "song_name": "Rich and Strange",
+     "length": 148,
+     "artists": [
+      {
+       "artist_id": 45,
+       "artist_name": "Danika Callan",
+       "country": "Russia"
+      }
+     ]
+    },
+    {
+     "song_id": 396,
+     "song_name": "Underworld",
+     "length": 201,
+     "artists": [
+      {
+       "artist_id": 33,
+       "artist_name": "Fanechka Stainson",
+       "country": "Brazil"
+      },
+      {
+       "artist_id": 1,
+       "artist_name": "Miller St Clair",
+       "country": "Bulgaria"
+      }
+     ]
+    },
+    {
+     "song_id": 182,
+     "song_name": "Stingray Sam",
+     "length": 138,
+     "artists": [
+      {
+       "artist_id": 17,
+       "artist_name": "Beverlee Wilbore",
+       "country": "Denmark"
+      }
+     ]
+    },
+    {
+     "song_id": 28,
+     "song_name": "Cat's-Paw, The",
+     "length": 139,
+     "artists": [
+      {
+       "artist_id": 32,
+       "artist_name": "Josselyn Bockett",
+       "country": "China"
+      },
+      {
+       "artist_id": 26,
+       "artist_name": "Kahaleel Westcot",
+       "country": "Sweden"
+      },
+      {
+       "artist_id": 42,
+       "artist_name": "Bink Cumes",
+       "country": "Russia"
+      }
+     ]
+    },
+    {
+     "song_id": 87,
+     "song_name": "Dead Meat",
+     "length": 223,
+     "artists": [
+      {
+       "artist_id": 47,
+       "artist_name": "Darcee Janouch",
+       "country": "Indonesia"
+      },
+      {
+       "artist_id": 4,
+       "artist_name": "Gabriele Djakovic",
+       "country": "Russia"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "album_id": 40,
+   "album_name": "Job",
+   "release_year": 2009,
+   "artists": [
+    {
+     "artist_id": 28,
+     "artist_name": "Geoffry Postians",
+     "country": "Croatia"
+    },
+    {
+     "artist_id": 23,
+     "artist_name": "Errick Bulteel",
+     "country": "China"
+    },
+    {
+     "artist_id": 47,
+     "artist_name": "Darcee Janouch",
+     "country": "Indonesia"
+    }
+   ],
+   "songs": [
+    {
+     "song_id": 349,
+     "song_name": "Hitchcock",
+     "length": 125,
+     "artists": [
+      {
+       "artist_id": 49,
+       "artist_name": "Irvine Faircley",
+       "country": "Indonesia"
+      }
+     ]
+    },
+    {
+     "song_id": 33,
+     "song_name": "Black Dynamite",
+     "length": 295,
+     "artists": [
+      {
+       "artist_id": 15,
+       "artist_name": "Carol Purchon",
+       "country": "Peru"
+      },
+      {
+       "artist_id": 9,
+       "artist_name": "Dion Minifie",
+       "country": "France"
+      }
+     ]
+    },
+    {
+     "song_id": 5,
+     "song_name": "Body and Soul",
+     "length": 241,
+     "artists": [
+      {
+       "artist_id": 6,
+       "artist_name": "Caitrin Beggio",
+       "country": "Brazil"
+      },
+      {
+       "artist_id": 36,
+       "artist_name": "Sidoney Plaice",
+       "country": "China"
+      }
+     ]
+    },
+    {
+     "song_id": 124,
+     "song_name": "Christmas Carol: The Musical, A (Christmas Carol, A)",
+     "length": 225,
+     "artists": [
+      {
+       "artist_id": 21,
+       "artist_name": "Normie Casillas",
+       "country": "China"
+      },
+      {
+       "artist_id": 16,
+       "artist_name": "Derrick Carus",
+       "country": "Norway"
+      },
+      {
+       "artist_id": 17,
+       "artist_name": "Beverlee Wilbore",
+       "country": "Denmark"
+      }
+     ]
+    },
+    {
+     "song_id": 179,
+     "song_name": "Winchester '73",
+     "length": 193,
+     "artists": [
+      {
+       "artist_id": 28,
+       "artist_name": "Geoffry Postians",
+       "country": "Croatia"
+      },
+      {
+       "artist_id": 23,
+       "artist_name": "Errick Bulteel",
+       "country": "China"
+      },
+      {
+       "artist_id": 47,
+       "artist_name": "Darcee Janouch",
+       "country": "Indonesia"
+      }
+     ]
+    },
+    {
+     "song_id": 129,
+     "song_name": "Taxi Driver",
+     "length": 135,
+     "artists": [
+      {
+       "artist_id": 40,
+       "artist_name": "Westbrook Vye",
+       "country": "Indonesia"
+      },
+      {
+       "artist_id": 37,
+       "artist_name": "Leonore Giacopazzi",
+       "country": "China"
+      }
+     ]
+    },
+    {
+     "song_id": 453,
+     "song_name": "Office Killer",
+     "length": 210,
+     "artists": [
+      {
+       "artist_id": 4,
+       "artist_name": "Gabriele Djakovic",
+       "country": "Russia"
+      },
+      {
+       "artist_id": 19,
+       "artist_name": "Shep Beincken",
+       "country": "Indonesia"
+      }
+     ]
+    },
+    {
+     "song_id": 84,
+     "song_name": "Days of Wine and Roses",
+     "length": 214,
+     "artists": [
+      {
+       "artist_id": 7,
+       "artist_name": "Heall Clelle",
+       "country": "China"
+      }
+     ]
+    },
+    {
+     "song_id": 452,
+     "song_name": "Prince and the Pauper, The",
+     "length": 211,
+     "artists": [
+      {
+       "artist_id": 2,
+       "artist_name": "Elinor Comben",
+       "country": "Indonesia"
+      },
+      {
+       "artist_id": 3,
+       "artist_name": "Vin Mish",
+       "country": "Lithuania"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "album_id": 41,
+   "album_name": "Zoolab",
+   "release_year": 1999,
+   "artists": [
+    {
+     "artist_id": 46,
+     "artist_name": "Adrien Shutler",
+     "country": "Sweden"
+    }
+   ],
+   "songs": [
+    {
+     "song_id": 194,
+     "song_name": "History of Postwar Japan as Told by a Bar Hostess (Nippon Sengoshi - Madamu onboro no Seikatsu)",
+     "length": 151,
+     "artists": [
+      {
+       "artist_id": 27,
+       "artist_name": "Cass Hudson",
+       "country": "Poland"
+      }
+     ]
+    },
+    {
+     "song_id": 75,
+     "song_name": "Tale of the Wind, A (Histoire de vent, Une)",
+     "length": 320,
+     "artists": [
+      {
+       "artist_id": 46,
+       "artist_name": "Adrien Shutler",
+       "country": "Sweden"
+      }
+     ]
+    },
+    {
+     "song_id": 5,
+     "song_name": "Body and Soul",
+     "length": 241,
+     "artists": [
+      {
+       "artist_id": 6,
+       "artist_name": "Caitrin Beggio",
+       "country": "Brazil"
+      },
+      {
+       "artist_id": 36,
+       "artist_name": "Sidoney Plaice",
+       "country": "China"
+      }
+     ]
+    },
+    {
+     "song_id": 291,
+     "song_name": "A Gathering of Eagles",
+     "length": 163,
+     "artists": [
+      {
+       "artist_id": 34,
+       "artist_name": "Quinn Letty",
+       "country": "Saudi Arabia"
+      },
+      {
+       "artist_id": 42,
+       "artist_name": "Bink Cumes",
+       "country": "Russia"
+      },
+      {
+       "artist_id": 18,
+       "artist_name": "Chariot Bathoe",
+       "country": "China"
+      }
+     ]
+    },
+    {
+     "song_id": 443,
+     "song_name": "Hugh Hefner: Playboy, Activist and Rebel",
+     "length": 228,
+     "artists": [
+      {
+       "artist_id": 44,
+       "artist_name": "Megan Rizzini",
+       "country": "United States"
+      },
+      {
+       "artist_id": 35,
+       "artist_name": "Jannel Brophy",
+       "country": "Peru"
+      }
+     ]
+    },
+    {
+     "song_id": 253,
+     "song_name": "To Hell and Back",
+     "length": 198,
+     "artists": [
+      {
+       "artist_id": 9,
+       "artist_name": "Dion Minifie",
+       "country": "France"
+      },
+      {
+       "artist_id": 40,
+       "artist_name": "Westbrook Vye",
+       "country": "Indonesia"
+      }
+     ]
+    },
+    {
+     "song_id": 106,
+     "song_name": "True Heart Susie",
+     "length": 245,
+     "artists": [
+      {
+       "artist_id": 43,
+       "artist_name": "Dionne Haste",
+       "country": "Brazil"
+      },
+      {
+       "artist_id": 46,
+       "artist_name": "Adrien Shutler",
+       "country": "Sweden"
+      },
+      {
+       "artist_id": 32,
+       "artist_name": "Josselyn Bockett",
+       "country": "China"
+      }
+     ]
+    },
+    {
+     "song_id": 198,
+     "song_name": "Clockers",
+     "length": 206,
+     "artists": [
+      {
+       "artist_id": 20,
+       "artist_name": "Andi Leborgne",
+       "country": "China"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "album_id": 42,
+   "album_name": "Fix San",
+   "release_year": 1985,
+   "artists": [
+    {
+     "artist_id": 18,
+     "artist_name": "Chariot Bathoe",
+     "country": "China"
+    }
+   ],
+   "songs": [
+    {
+     "song_id": 310,
+     "song_name": "On the Beach",
+     "length": 168,
+     "artists": [
+      {
+       "artist_id": 19,
+       "artist_name": "Shep Beincken",
+       "country": "Indonesia"
+      }
+     ]
+    },
+    {
+     "song_id": 419,
+     "song_name": "Green Lantern: First Flight",
+     "length": 229,
+     "artists": [
+      {
+       "artist_id": 18,
+       "artist_name": "Chariot Bathoe",
+       "country": "China"
+      }
+     ]
+    },
+    {
+     "song_id": 140,
+     "song_name": "Common Places (a.k.a. Common Ground) (Lugares comunes)",
+     "length": 232,
+     "artists": [
+      {
+       "artist_id": 7,
+       "artist_name": "Heall Clelle",
+       "country": "China"
+      }
+     ]
+    },
+    {
+     "song_id": 294,
+     "song_name": "Born Reckless",
+     "length": 140,
+     "artists": [
+      {
+       "artist_id": 18,
+       "artist_name": "Chariot Bathoe",
+       "country": "China"
+      },
+      {
+       "artist_id": 21,
+       "artist_name": "Normie Casillas",
+       "country": "China"
+      },
+      {
+       "artist_id": 16,
+       "artist_name": "Derrick Carus",
+       "country": "Norway"
+      }
+     ]
+    },
+    {
+     "song_id": 327,
+     "song_name": "Goodbye Girl, The",
+     "length": 177,
+     "artists": [
+      {
+       "artist_id": 20,
+       "artist_name": "Andi Leborgne",
+       "country": "China"
+      }
+     ]
+    },
+    {
+     "song_id": 490,
+     "song_name": "Within Our Gates",
+     "length": 242,
+     "artists": [
+      {
+       "artist_id": 13,
+       "artist_name": "Anstice Carncross",
+       "country": "Thailand"
+      }
+     ]
+    },
+    {
+     "song_id": 397,
+     "song_name": "Araya",
+     "length": 168,
+     "artists": [
+      {
+       "artist_id": 35,
+       "artist_name": "Jannel Brophy",
+       "country": "Peru"
+      },
+      {
+       "artist_id": 30,
+       "artist_name": "Imogene Horley",
+       "country": "Poland"
+      },
+      {
+       "artist_id": 27,
+       "artist_name": "Cass Hudson",
+       "country": "Poland"
+      }
+     ]
+    },
+    {
+     "song_id": 475,
+     "song_name": "Guilty of Romance (Koi no tsumi) ",
+     "length": 160,
+     "artists": [
+      {
+       "artist_id": 44,
+       "artist_name": "Megan Rizzini",
+       "country": "United States"
+      },
+      {
+       "artist_id": 50,
+       "artist_name": "Barde Schoenrock",
+       "country": "China"
+      },
+      {
+       "artist_id": 48,
+       "artist_name": "Lexy Belding",
+       "country": "South Korea"
+      }
+     ]
+    },
+    {
+     "song_id": 210,
+     "song_name": "Until September",
+     "length": 188,
+     "artists": [
+      {
+       "artist_id": 16,
+       "artist_name": "Derrick Carus",
+       "country": "Norway"
+      }
+     ]
+    },
+    {
+     "song_id": 15,
+     "song_name": "Fear and Trembling (Stupeur et tremblements)",
+     "length": 283,
+     "artists": [
+      {
+       "artist_id": 45,
+       "artist_name": "Danika Callan",
+       "country": "Russia"
+      },
+      {
+       "artist_id": 44,
+       "artist_name": "Megan Rizzini",
+       "country": "United States"
+      }
+     ]
+    },
+    {
+     "song_id": 146,
+     "song_name": "Long Dark Hall, The",
+     "length": 159,
+     "artists": [
+      {
+       "artist_id": 28,
+       "artist_name": "Geoffry Postians",
+       "country": "Croatia"
+      },
+      {
+       "artist_id": 18,
+       "artist_name": "Chariot Bathoe",
+       "country": "China"
+      },
+      {
+       "artist_id": 3,
+       "artist_name": "Vin Mish",
+       "country": "Lithuania"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "album_id": 43,
+   "album_name": "Alphazap",
+   "release_year": 1994,
+   "artists": [
+    {
+     "artist_id": 44,
+     "artist_name": "Megan Rizzini",
+     "country": "United States"
+    },
+    {
+     "artist_id": 47,
+     "artist_name": "Darcee Janouch",
+     "country": "Indonesia"
+    },
+    {
+     "artist_id": 48,
+     "artist_name": "Lexy Belding",
+     "country": "South Korea"
+    }
+   ],
+   "songs": [
+    {
+     "song_id": 440,
+     "song_name": "For Heaven's Sake",
+     "length": 223,
+     "artists": [
+      {
+       "artist_id": 10,
+       "artist_name": "Gianni Blodg",
+       "country": "China"
+      },
+      {
+       "artist_id": 5,
+       "artist_name": "Kesley Shepstone",
+       "country": "Ukraine"
+      },
+      {
+       "artist_id": 31,
+       "artist_name": "Mycah Joyner",
+       "country": "Cuba"
+      }
+     ]
+    },
+    {
+     "song_id": 26,
+     "song_name": "Business, The",
+     "length": 216,
+     "artists": [
+      {
+       "artist_id": 14,
+       "artist_name": "Ester Grazier",
+       "country": "Brazil"
+      }
+     ]
+    },
+    {
+     "song_id": 256,
+     "song_name": "Wilderness",
+     "length": 215,
+     "artists": [
+      {
+       "artist_id": 28,
+       "artist_name": "Geoffry Postians",
+       "country": "Croatia"
+      },
+      {
+       "artist_id": 9,
+       "artist_name": "Dion Minifie",
+       "country": "France"
+      },
+      {
+       "artist_id": 30,
+       "artist_name": "Imogene Horley",
+       "country": "Poland"
+      }
+     ]
+    },
+    {
+     "song_id": 11,
+     "song_name": "Shortbus",
+     "length": 303,
+     "artists": [
+      {
+       "artist_id": 25,
+       "artist_name": "Helena Dowzell",
+       "country": "Japan"
+      }
+     ]
+    },
+    {
+     "song_id": 271,
+     "song_name": "Pandora's Box (B\u00fcchse der Pandora, Die)",
+     "length": 218,
+     "artists": [
+      {
+       "artist_id": 43,
+       "artist_name": "Dionne Haste",
+       "country": "Brazil"
+      },
+      {
+       "artist_id": 8,
+       "artist_name": "Catriona Suff",
+       "country": "China"
+      }
+     ]
+    },
+    {
+     "song_id": 45,
+     "song_name": "Trust Us, This Is All Made Up",
+     "length": 263,
+     "artists": [
+      {
+       "artist_id": 11,
+       "artist_name": "Shawn Lamperd",
+       "country": "Estonia"
+      },
+      {
+       "artist_id": 30,
+       "artist_name": "Imogene Horley",
+       "country": "Poland"
+      }
+     ]
+    },
+    {
+     "song_id": 186,
+     "song_name": "Love Exposure",
+     "length": 188,
+     "artists": [
+      {
+       "artist_id": 44,
+       "artist_name": "Megan Rizzini",
+       "country": "United States"
+      },
+      {
+       "artist_id": 47,
+       "artist_name": "Darcee Janouch",
+       "country": "Indonesia"
+      },
+      {
+       "artist_id": 48,
+       "artist_name": "Lexy Belding",
+       "country": "South Korea"
+      }
+     ]
+    },
+    {
+     "song_id": 335,
+     "song_name": "Blue Dahlia, The",
+     "length": 175,
+     "artists": [
+      {
+       "artist_id": 12,
+       "artist_name": "Pace McMychem",
+       "country": "China"
+      },
+      {
+       "artist_id": 4,
+       "artist_name": "Gabriele Djakovic",
+       "country": "Russia"
+      }
+     ]
+    },
+    {
+     "song_id": 252,
+     "song_name": "Castaway Cowboy, The",
+     "length": 196,
+     "artists": [
+      {
+       "artist_id": 26,
+       "artist_name": "Kahaleel Westcot",
+       "country": "Sweden"
+      },
+      {
+       "artist_id": 47,
+       "artist_name": "Darcee Janouch",
+       "country": "Indonesia"
+      },
+      {
+       "artist_id": 11,
+       "artist_name": "Shawn Lamperd",
+       "country": "Estonia"
+      }
+     ]
+    },
+    {
+     "song_id": 126,
+     "song_name": "Toy Story Toons: Partysaurus Rex",
+     "length": 206,
+     "artists": [
+      {
+       "artist_id": 20,
+       "artist_name": "Andi Leborgne",
+       "country": "China"
+      },
+      {
+       "artist_id": 30,
+       "artist_name": "Imogene Horley",
+       "country": "Poland"
+      },
+      {
+       "artist_id": 21,
+       "artist_name": "Normie Casillas",
+       "country": "China"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "album_id": 45,
+   "album_name": "Job",
+   "release_year": 2004,
+   "artists": [
+    {
+     "artist_id": 30,
+     "artist_name": "Imogene Horley",
+     "country": "Poland"
+    },
+    {
+     "artist_id": 19,
+     "artist_name": "Shep Beincken",
+     "country": "Indonesia"
+    }
+   ],
+   "songs": [
+    {
+     "song_id": 172,
+     "song_name": "Atragon (Kaitei Gunkan)",
+     "length": 148,
+     "artists": [
+      {
+       "artist_id": 26,
+       "artist_name": "Kahaleel Westcot",
+       "country": "Sweden"
+      }
+     ]
+    },
+    {
+     "song_id": 69,
+     "song_name": "Idolmaker, The",
+     "length": 201,
+     "artists": [
+      {
+       "artist_id": 24,
+       "artist_name": "Candide Kelleher",
+       "country": "China"
+      },
+      {
+       "artist_id": 29,
+       "artist_name": "Morty Ocklin",
+       "country": "China"
+      },
+      {
+       "artist_id": 34,
+       "artist_name": "Quinn Letty",
+       "country": "Saudi Arabia"
+      }
+     ]
+    },
+    {
+     "song_id": 239,
+     "song_name": "Beauty and the Beast: The Enchanted Christmas",
+     "length": 162,
+     "artists": [
+      {
+       "artist_id": 22,
+       "artist_name": "Devon Cozby",
+       "country": "Russia"
+      },
+      {
+       "artist_id": 35,
+       "artist_name": "Jannel Brophy",
+       "country": "Peru"
+      }
+     ]
+    },
+    {
+     "song_id": 12,
+     "song_name": "Scratch",
+     "length": 128,
+     "artists": [
+      {
+       "artist_id": 30,
+       "artist_name": "Imogene Horley",
+       "country": "Poland"
+      },
+      {
+       "artist_id": 41,
+       "artist_name": "Melamie Sousa",
+       "country": "Peru"
+      }
+     ]
+    },
+    {
+     "song_id": 193,
+     "song_name": "Sour Grapes",
+     "length": 175,
+     "artists": [
+      {
+       "artist_id": 36,
+       "artist_name": "Sidoney Plaice",
+       "country": "China"
+      },
+      {
+       "artist_id": 9,
+       "artist_name": "Dion Minifie",
+       "country": "France"
+      }
+     ]
+    },
+    {
+     "song_id": 104,
+     "song_name": "Ugly, The",
+     "length": 213,
+     "artists": [
+      {
+       "artist_id": 30,
+       "artist_name": "Imogene Horley",
+       "country": "Poland"
+      },
+      {
+       "artist_id": 19,
+       "artist_name": "Shep Beincken",
+       "country": "Indonesia"
+      }
+     ]
+    },
+    {
+     "song_id": 473,
+     "song_name": "The Message",
+     "length": 197,
+     "artists": [
+      {
+       "artist_id": 19,
+       "artist_name": "Shep Beincken",
+       "country": "Indonesia"
+      },
+      {
+       "artist_id": 45,
+       "artist_name": "Danika Callan",
+       "country": "Russia"
+      },
+      {
+       "artist_id": 2,
+       "artist_name": "Elinor Comben",
+       "country": "Indonesia"
+      }
+     ]
+    },
+    {
+     "song_id": 362,
+     "song_name": "Star Wars: Episode V - The Empire Strikes Back",
+     "length": 134,
+     "artists": [
+      {
+       "artist_id": 17,
+       "artist_name": "Beverlee Wilbore",
+       "country": "Denmark"
+      }
+     ]
+    },
+    {
+     "song_id": 271,
+     "song_name": "Pandora's Box (B\u00fcchse der Pandora, Die)",
+     "length": 218,
+     "artists": [
+      {
+       "artist_id": 43,
+       "artist_name": "Dionne Haste",
+       "country": "Brazil"
+      },
+      {
+       "artist_id": 8,
+       "artist_name": "Catriona Suff",
+       "country": "China"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "album_id": 46,
+   "album_name": "Keylex",
+   "release_year": 2002,
+   "artists": [
+    {
+     "artist_id": 22,
+     "artist_name": "Devon Cozby",
+     "country": "Russia"
+    }
+   ],
+   "songs": [
+    {
+     "song_id": 256,
+     "song_name": "Wilderness",
+     "length": 215,
+     "artists": [
+      {
+       "artist_id": 28,
+       "artist_name": "Geoffry Postians",
+       "country": "Croatia"
+      },
+      {
+       "artist_id": 9,
+       "artist_name": "Dion Minifie",
+       "country": "France"
+      },
+      {
+       "artist_id": 30,
+       "artist_name": "Imogene Horley",
+       "country": "Poland"
+      }
+     ]
+    },
+    {
+     "song_id": 496,
+     "song_name": "Killer Joe",
+     "length": 222,
+     "artists": [
+      {
+       "artist_id": 10,
+       "artist_name": "Gianni Blodg",
+       "country": "China"
+      }
+     ]
+    },
+    {
+     "song_id": 65,
+     "song_name": "La Bande du drugstore",
+     "length": 237,
+     "artists": [
+      {
+       "artist_id": 34,
+       "artist_name": "Quinn Letty",
+       "country": "Saudi Arabia"
+      },
+      {
+       "artist_id": 39,
+       "artist_name": "Adan Adie",
+       "country": "Democratic Republic of the Congo"
+      }
+     ]
+    },
+    {
+     "song_id": 147,
+     "song_name": "Spinout",
+     "length": 174,
+     "artists": [
+      {
+       "artist_id": 22,
+       "artist_name": "Devon Cozby",
+       "country": "Russia"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "album_id": 47,
+   "album_name": "Hatity",
+   "release_year": 2006,
+   "artists": [
+    {
+     "artist_id": 19,
+     "artist_name": "Shep Beincken",
+     "country": "Indonesia"
+    },
+    {
+     "artist_id": 16,
+     "artist_name": "Derrick Carus",
+     "country": "Norway"
+    },
+    {
+     "artist_id": 18,
+     "artist_name": "Chariot Bathoe",
+     "country": "China"
+    }
+   ],
+   "songs": [
+    {
+     "song_id": 306,
+     "song_name": "Legend of Hercules, The",
+     "length": 193,
+     "artists": [
+      {
+       "artist_id": 32,
+       "artist_name": "Josselyn Bockett",
+       "country": "China"
+      },
+      {
+       "artist_id": 36,
+       "artist_name": "Sidoney Plaice",
+       "country": "China"
+      }
+     ]
+    },
+    {
+     "song_id": 46,
+     "song_name": "Good Shepherd, The",
+     "length": 163,
+     "artists": [
+      {
+       "artist_id": 47,
+       "artist_name": "Darcee Janouch",
+       "country": "Indonesia"
+      }
+     ]
+    },
+    {
+     "song_id": 233,
+     "song_name": "Citadel",
+     "length": 141,
+     "artists": [
+      {
+       "artist_id": 19,
+       "artist_name": "Shep Beincken",
+       "country": "Indonesia"
+      },
+      {
+       "artist_id": 16,
+       "artist_name": "Derrick Carus",
+       "country": "Norway"
+      },
+      {
+       "artist_id": 18,
+       "artist_name": "Chariot Bathoe",
+       "country": "China"
+      }
+     ]
+    },
+    {
+     "song_id": 183,
+     "song_name": "Night Across the Street (La noche de enfrente)",
+     "length": 222,
+     "artists": [
+      {
+       "artist_id": 46,
+       "artist_name": "Adrien Shutler",
+       "country": "Sweden"
+      }
+     ]
+    },
+    {
+     "song_id": 442,
+     "song_name": "Gangs of New York",
+     "length": 214,
+     "artists": [
+      {
+       "artist_id": 26,
+       "artist_name": "Kahaleel Westcot",
+       "country": "Sweden"
+      },
+      {
+       "artist_id": 42,
+       "artist_name": "Bink Cumes",
+       "country": "Russia"
+      },
+      {
+       "artist_id": 6,
+       "artist_name": "Caitrin Beggio",
+       "country": "Brazil"
+      }
+     ]
+    },
+    {
+     "song_id": 200,
+     "song_name": "Arachnophobia",
+     "length": 170,
+     "artists": [
+      {
+       "artist_id": 39,
+       "artist_name": "Adan Adie",
+       "country": "Democratic Republic of the Congo"
+      },
+      {
+       "artist_id": 42,
+       "artist_name": "Bink Cumes",
+       "country": "Russia"
+      },
+      {
+       "artist_id": 21,
+       "artist_name": "Normie Casillas",
+       "country": "China"
+      }
+     ]
+    },
+    {
+     "song_id": 135,
+     "song_name": "I Inside, The",
+     "length": 257,
+     "artists": [
+      {
+       "artist_id": 35,
+       "artist_name": "Jannel Brophy",
+       "country": "Peru"
+      },
+      {
+       "artist_id": 46,
+       "artist_name": "Adrien Shutler",
+       "country": "Sweden"
+      }
+     ]
+    },
+    {
+     "song_id": 197,
+     "song_name": "Ship of Fools",
+     "length": 193,
+     "artists": [
+      {
+       "artist_id": 20,
+       "artist_name": "Andi Leborgne",
+       "country": "China"
+      },
+      {
+       "artist_id": 26,
+       "artist_name": "Kahaleel Westcot",
+       "country": "Sweden"
+      },
+      {
+       "artist_id": 36,
+       "artist_name": "Sidoney Plaice",
+       "country": "China"
+      }
+     ]
+    },
+    {
+     "song_id": 459,
+     "song_name": "Toy Story Toons: Hawaiian Vacation",
+     "length": 232,
+     "artists": [
+      {
+       "artist_id": 25,
+       "artist_name": "Helena Dowzell",
+       "country": "Japan"
+      },
+      {
+       "artist_id": 40,
+       "artist_name": "Westbrook Vye",
+       "country": "Indonesia"
+      },
+      {
+       "artist_id": 44,
+       "artist_name": "Megan Rizzini",
+       "country": "United States"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,74 @@
+{
+    "album_id": 76,
+    "album_name": "Tresom",
+    "release_year": 2002,
+    "artists": [
+        {
+            "artist_id": 41,
+            "artist_name": "Melamie Sousa",
+            "country": "Peru"
+        }
+    ],
+    "songs": [
+        {
+            "song_id": 115,
+            "song_name": "Reign Over Me",
+            "length": 324,
+            "artists": [
+                {
+                    "artist_id": 41,
+                    "artist_name": "Melamie Sousa",
+                    "country": "Peru"
+                }
+            ]
+        },
+        {
+            "song_id": 72,
+            "song_name": "Andy Hardy's Double Life",
+            "length": 184,
+            "artists": [
+                {
+                    "artist_id": 41,
+                    "artist_name": "Melamie Sousa",
+                    "country": "Peru"
+                }
+            ]
+        },
+        {
+            "song_id": 380,
+            "song_name": "Dummy",
+            "length": 185,
+            "artists": [
+                {
+                    "artist_id": 41,
+                    "artist_name": "Melamie Sousa",
+                    "country": "Peru"
+                }
+            ]
+        },
+        {
+            "song_id": 53,
+            "song_name": "Carbon Nation",
+            "length": 194,
+            "artists": [
+                {
+                    "artist_id": 41,
+                    "artist_name": "Melamie Sousa",
+                    "country": "Peru"
+                }
+            ]
+        },
+        {
+            "song_id": 350,
+            "song_name": "Universal Soldier: Regeneration",
+            "length": 209,
+            "artists": [
+                {
+                    "artist_id": 41,
+                    "artist_name": "Melamie Sousa",
+                    "country": "Peru"
+                }
+            ]
+        }
+    ]
+}

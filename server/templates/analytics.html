@@ -1,0 +1,72 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Analytics
+{% endblock %}
+
+{% block main %}
+
+<form action="/web/analytics" method="post">
+        <label for="cars">Search analytics by:</label>
+
+        <select name="path" id="path">
+            <option value="artists/avg_song_length/">Average Song Length</option>
+            <option value="artists/top_length/">Top Artists in Length</option>
+        </select>
+        <div class="form-group">
+            <input autocomplete="off" id ="first" autofocus class="form-control input-lg" name="parameter" placeholder="parameter" type="number">
+            <!-- value="<?php echo isset($_POST['parameter']) ? $_POST['parameter'] : '';?>" -->
+            <input autocomplete="off" id="date" class="form-control input-lg" name="date" placeholder="date" type="date"> 
+            <input autocomplete="off" id="second" class="form-control input-lg" name="parameter2" placeholder="date" type="date">            
+        </div>
+        <button class="btn btn-primary" type="submit">Search</button>
+</form>
+
+<script>
+    //Makes a second form input parameter appear for 'play_count/top_source/'
+    $(document).ready(function () {
+        console.log("hello")
+        $('#second').hide();
+        $('#date').hide();
+        $('#path').change(function () {
+
+            //giving 2 paraemeters (song_id, date) for top_source
+            if ($(this).val() == 'playcount/top_source/')
+            {
+                $('#second').show();
+            }
+            else
+            {
+                $('#second').hide();
+            }
+            
+            //giving exactly one data parameter to other playcount endpoints
+            if ($(this).val() == 'playcount/top_song/' || $(this).val() == 'playcount/top_country/')
+            {
+                $('#date').show();
+                $('#first').hide();
+            }
+            else
+            {
+                $('#date').hide();
+                $('#first').show();
+            }
+        })
+    });
+</script>
+
+
+{%  if data != None and data|length > 0 %}
+    <div id="showData" onload="CreateTableFromJSON(data)">
+        <script>
+            CreateTableFromJSON(data);
+        </script>
+    </div>
+{% elif data != None and data|length == 0 %}
+    <div>
+        <h3>No Results found</h3>
+    </div>
+{% endif %}
+
+
+{% endblock %}

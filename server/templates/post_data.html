@@ -1,0 +1,175 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Post Song
+{% endblock %}
+
+{% block main %}
+
+<form action="/web/post_data" method="post">
+        <select name="path" id="path">
+            <option value="album">Post Album</option>
+        </select>
+        <div class="form-group">
+
+            <input autocomplete="off" autofocus class="form-control input-lg" name="json_data"
+                   placeholder="JSON for a single record goes here" type="text" size="80">
+        </div>
+        <button class="btn btn-primary" type="submit">Post</button>
+</form>
+
+    <div>
+
+
+    <h3>Sample Album JSON</h3>
+    {
+      "album_id": 76,
+      "album_name": "Tresom",
+      "release_year": 2002,
+      "artists": [
+       {
+        "artist_id": 41,
+        "artist_name": "Melamie Sousa",
+        "country": "Peru"
+       }
+      ],
+      "songs": [
+       {
+        "song_id": 115,
+        "song_name": "Reign Over Me",
+        "length": 324,
+        "artists": [
+         {
+          "artist_id": 41,
+          "artist_name": "Melamie Sousa",
+          "country": "Peru"
+         }
+        ]
+       },
+       {
+        "song_id": 72,
+        "song_name": "Andy Hardy's Double Life",
+        "length": 184,
+        "artists": [
+         {
+          "artist_id": 41,
+          "artist_name": "Melamie Sousa",
+          "country": "Peru"
+         }
+        ]
+       },
+       {
+        "song_id": 380,
+        "song_name": "Dummy",
+        "length": 185,
+        "artists": [
+         {
+          "artist_id": 41,
+          "artist_name": "Melamie Sousa",
+          "country": "Peru"
+         }
+        ]
+       },
+       {
+        "song_id": 53,
+        "song_name": "Carbon Nation",
+        "length": 194,
+        "artists": [
+         {
+          "artist_id": 41,
+          "artist_name": "Melamie Sousa",
+          "country": "Peru"
+         }
+        ]
+       },
+       {
+        "song_id": 350,
+        "song_name": "Universal Soldier: Regeneration",
+        "length": 209,
+        "artists": [
+         {
+          "artist_id": 41,
+          "artist_name": "Melamie Sousa",
+          "country": "Peru"
+         }
+        ]
+       }
+      ]
+     }
+
+     <h3>Sample Album 2</h3>
+     {
+        "album_id": 1,
+        "album_name": "Namfix",
+        "release_year": 1992,
+        "artists": [
+          {
+            "artist_id": 3,
+            "artist_name": "Vin Mish",
+            "country": "Lithuania"
+          }
+        ],
+        "songs": [
+          {
+            "song_id": 24,
+            "song_name": "She",
+            "length": 294,
+            "artists": [
+              {
+                "artist_id": 3,
+                "artist_name": "Vin Mish",
+                "country": "Lithuania"
+              }
+            ]
+          },
+          {
+            "song_id": 180,
+            "song_name": "Charly",
+            "length": 216,
+            "artists": [
+              {
+                "artist_id": 28,
+                "artist_name": "Geoffry Postians",
+                "country": "Croatia"
+              },
+              {
+                "artist_id": 39,
+                "artist_name": "Adan Adie",
+                "country": "Democratic Republic of the Congo"
+              }
+            ]
+          },
+          {
+            "song_id": 288,
+            "song_name": "To End All Wars",
+            "length": 181,
+            "artists": [
+              {
+                "artist_id": 41,
+                "artist_name": "Melamie Sousa",
+                "country": "Peru"
+              },
+              {
+                "artist_id": 30,
+                "artist_name": "Imogene Horley",
+                "country": "Poland"
+              }
+            ]
+          }
+        ]
+      }
+
+{%  if data != None and data|length > 0 %}
+    <div id="showData" onload="CreateTableFromJSON(data)">
+        <script>
+            CreateTableFromJSON(data);
+        </script>
+    </div>
+{% elif data != None and data|length == 0 %}
+    <div>
+        <h3>No Results found</h3>
+    </div>
+{% endif %}
+
+
+{% endblock %}

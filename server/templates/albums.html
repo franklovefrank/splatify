@@ -1,0 +1,37 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Albums
+{% endblock %}
+
+{% block main %}
+
+<form action="/web/albums" method="post">
+        <label for="cars">Search albums by:</label>
+
+        <select name="path" id="path">
+            <option value="">album_id</option>
+            <option value="by_artist/">artist_id</option>
+        </select>
+        <div class="form-group">
+            <input autocomplete="off" autofocus class="form-control input-lg" name="parameter" placeholder="parameter" type="number">
+        </div>
+        <button class="btn btn-primary" type="submit">Search</button>
+</form>
+
+
+
+{%  if data != None and data|length > 0 %}
+    <div id="showData" onload="CreateTableFromJSON(data)">
+        <script>
+            CreateTableFromJSON(data);
+        </script>
+    </div>
+{% elif data != None and data|length == 0 %}
+    <div>
+        <h3>No Results found</h3>
+    </div>
+{% endif %}
+
+
+{% endblock %}

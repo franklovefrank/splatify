@@ -1,0 +1,36 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Songs
+{% endblock %}
+
+{% block main %}
+
+<form action="/web/songs" method="post">
+        <label>Search songs by:</label>
+
+        <select name="path" id="path">
+            <option value="">song_id</option>
+            <option value="by_album/">album_id</option>
+            <option value="by_artist/">artist_id</option>
+        </select>
+        <div class="form-group">
+            <input autocomplete="off" autofocus class="form-control input-lg" name="parameter" placeholder="parameter" type="number">
+            <!-- value="<?php echo isset($_POST['parameter']) ? $_POST['parameter'] : '';?>" -->
+        </div>
+        <button class="btn btn-primary" type="submit">Search</button>
+</form>
+
+{%  if data != None and data|length > 0 %}
+    <div id="showData" onload="CreateTableFromJSON(data)">
+        <script>
+            CreateTableFromJSON(data);
+        </script>
+    </div>
+{% elif data != None and data|length == 0 %}
+    <div>
+        <h3>No Results found</h3>
+    </div>
+{% endif %}
+
+{% endblock %}

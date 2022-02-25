@@ -1,0 +1,30 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Query
+{% endblock %}
+
+{% block main %}
+
+<form action="/web/query" method="post">
+        <div class="form-group">
+            <input autocomplete="off" autofocus class="form-control input-lg" name="query" placeholder="Query goes here" type="text">
+        </div>
+        <button class="btn btn-primary" type="submit">Query</button>
+</form>
+
+
+{%  if data != None and data|length > 0 %}
+    <div id="showData" onload="CreateTableFromJSON(data)">
+        <script>
+            CreateTableFromJSON(data);
+        </script>
+    </div>
+{% elif data != None and data|length == 0 %}
+    <div>
+        <h3>No Results found</h3>
+    </div>
+{% endif %}
+
+
+{% endblock %}

@@ -1,0 +1,60 @@
+{
+    "album_id": 1,
+    "album_name": "Namfix",
+    "release_year": 1992,
+    "artists": [
+        {
+            "artist_id": 3,
+            "artist_name": "Vin Mish",
+            "country": "Lithuania"
+        }
+    ],
+    "songs": [
+        {
+            "song_id": 24,
+            "song_name": "She",
+            "length": 294,
+            "artists": [
+                {
+                    "artist_id": 3,
+                    "artist_name": "Vin Mish",
+                    "country": "Lithuania"
+                }
+            ]
+        },
+        {
+            "song_id": 180,
+            "song_name": "Charly",
+            "length": 216,
+            "artists": [
+                {
+                    "artist_id": 28,
+                    "artist_name": "Geoffry Postians",
+                    "country": "Croatia"
+                },
+                {
+                    "artist_id": 39,
+                    "artist_name": "Adan Adie",
+                    "country": "Democratic Republic of the Congo"
+                }
+            ]
+        },
+        {
+            "song_id": 288,
+            "song_name": "To End All Wars",
+            "length": 181,
+            "artists": [
+                {
+                    "artist_id": 41,
+                    "artist_name": "Melamie Sousa",
+                    "country": "Peru"
+                },
+                {
+                    "artist_id": 30,
+                    "artist_name": "Imogene Horley",
+                    "country": "Poland"
+                }
+            ]
+        }
+    ]
+}
