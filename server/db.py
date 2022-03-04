@@ -92,6 +92,12 @@ class DB:
         if isinstance(songs, list) is False or isinstance(artists, list) is False:
             logging.error("song_ids or artist_ids are not lists")
             raise BadRequest("song_ids or artist_ids are not lists")
+        song_key_list = {"song_id", "song_name", "length", "artists"}
+        artist_key_list = {"artist_id", "artist_name", "country" }
+        if not all(set(song.keys()) == song_key_list for song in songs): 
+            raise BadRequest("bad song")
+        if not all(set(artist.keys()) == artist_key_list for artist in artists):
+            raise BadRequest("bad song")
         c = self.conn.cursor()
         album_query = "INSERT OR IGNORE INTO album (album_id, album_name, release_year) VALUES (:album_id, :album_name, :release_year)"
         album_args = {"album_id": album_id, "album_name": album_name, "release_year":release_year}
