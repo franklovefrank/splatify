@@ -9,7 +9,23 @@ cd server
 export FLASK_APP=app.py
 flask run
 
+cd server
 sqlite3 splatDB.sqlite3
+
+cd data
+curl -iH "Content-Type: application/json" --data @album.json http://localhost:5000/album
+
+cd ..
+cd client
+python3 client.py -f ../data/album2-test.json
+
+cd ..
+python3 client/client.py -f data/album10-test.json
+python3 client/client.py -f data/album50-test.json
+python3 client/client.py -f data/albumfull-test.json
+
+curl http://localhost:5000/songs/115
+
 
 curl http://localhost:5000/songs/115
 ```
