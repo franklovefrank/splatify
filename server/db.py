@@ -71,6 +71,7 @@ class DB:
             self.conn.executescript(f.read())
         return "{\"message\":\"created\"}"
 
+
     # Add an album to the DB
     # An album has details, a list of artists, and a list of songs
     # If the artist or songs already exist then they should not be created
@@ -84,7 +85,7 @@ class DB:
             # An Artist is a dict of {"artist_id", "artist_name", "country" }
             # Arists is a list of artist [{"artist_id":12, "artist_name":"AA", "country":"XX"},{"arist_id": ...}]
             artists = post_body["artists"]
-            # Songs is a list of { "song_id", "song_name", "length", "artist" }
+            # Songs is a list of { "song_id", "song_name", "length", "artists" }
             # Song Id an length are numbers, song_name is a string, artist is a list of artists (above)
             songs = post_body["songs"]
         except KeyError as e:
@@ -103,20 +104,60 @@ class DB:
         album_args = {"album_id": album_id, "album_name": album_name, "release_year":release_year}
         c.execute(album_query, album_args)
         if artists: 
-            artist_query = "INSERT OR IGNORE INTO artist (artist_id, artist_name, country) VALUES (:artist_id, :artist_name, :country)"
-            c.executemany(artist_query,artists) 
-            artist_album_query = "INSERT INTO artist_album (artist_id, album_id) VALUES (:artist_id, :album_id)"
-            artist_album_vals = map(lambda artist: {'artist_id': artist['artist_id'], 'album_id': album_id}, artists)
-            c.executemany(artist_album_query, artist_album_vals)
+            for artist in artists:
+                self.insert_artist_from_album({'artist_id': artist['artist_id'],'artist_name': artist['artist_name'], 'country':artist['country'], 'album_id': album_id})
         if songs:
-            song_query = "INSERT OR IGNORE INTO song (song_id, song_name, length) VALUES (:song_id, :song_name, :length)"
-            c.executemany(song_query, songs)
-            song_album_query = "INSERT INTO song_album (song_id, album_id, order_in_album) VALUES (:song_id, :album_id, :order_in_album)"
-            song_album_vals = [{'song_id': song['song_id'], 'album_id': album_id, 'order_in_album': i+1} for i,song in enumerate(songs)] 
-            print(song_album_vals)
-            c.executemany(song_album_query, song_album_vals)
+            i = 1
+            for song in songs:
+                post = {"song_id": song['song_id'], "song_name":song['song_name'], "length":song['length'], "artists": song['artists'], "album": {"album_id": album_id, "order_in_album": i}}
+                self.insert_song_from_album(post)
+                i+=1 
         self.conn.commit()
         return "{\"message\":\"album inserted\"}"
+
+    def insert_song_from_album(self, post_body):
+        # post_body = {song_id : .. , song_name: .. , length: .. , artists: [{artist_id: , artist_name:, country:}], album: {album_id, order_in_album} }
+        song_id = post_body["song_id"]
+        song_name = post_body["song_name"]
+        length = post_body["length"]
+        artists = post_body["artists"]
+        album = post_body["album"]
+        print(artists)
+        c = self.conn.cursor()
+        # insert into songs
+        song_query = "INSERT OR IGNORE INTO song (song_id, song_name, length) VALUES (:song_id, :song_name, :length)"
+        songs = {"song_id": song_id, "song_name":song_name, "length":length }
+        c.execute(song_query, songs)
+        #insert into song_artist
+        song_artist_query = "INSERT OR IGNORE INTO song_artist (song_id, artist_id) VALUES (:song_id, :artist_id)"
+        for artist in artists:
+            song_artist = [{"song_id": song_id, "artist_id": artist["artist_id"]} 
+            c.execute(song_artist_query, song_artists)
+        #insert into song_albums 
+        song_album_query = "INSERT OR IGNORE INTO song_album (song_id, album_id, order_in_album) VALUES (:song_id, :album_id, :order_in_album)"
+        song_album = {"song_id": song_id, "album_id":album["album_id"], "order_in_album":album["order_in_album"] }
+        c.execute(song_album_query, song_album)
+        self.conn.commit()
+        return "{\"message\":\"song inserted\"}"
+
+    def insert_artist_from_album(self, post_body):
+        # post_body = artist_id, artist_name, country, album_id
+        artist_id = post_body["artist_id"]
+        artist_name = post_body["artist_name"]
+        country = post_body["country"]
+        album_id = post_body['album_id']
+        c = self.conn.cursor()
+        # insert into artist
+        artist_query = "INSERT OR IGNORE INTO artist (artist_id, artist_name, country) VALUES (:artist_id, :artist_name, :country)"
+        artist= { "artist_id": artist_id, 'artist_name': artist_name, "country": country} 
+        c.execute (artist_query,artist) 
+        # insert into artist album 
+        artist_album_query = "INSERT OR IGNORE INTO artist_album (artist_id, album_id) VALUES (:artist_id, :album_id)"
+        artist_album = {'artist_id': artist_id, 'album_id': album_id} 
+        c.execute(artist_album_query, artist_album)
+        # inserted into song artists in insert_song_from_album() so we're good 
+        self.conn.commit()
+        return "{\"message\":\"artist inserted\"}"
 
     """
     Returns a song's info
