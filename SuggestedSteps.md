@@ -35,7 +35,7 @@ Your output will be empty, but you should see a response code of 201 (assuming y
 
 
 ### Test 2.2
-In a new terminal, while the server is running, run from the client directory `python3 client.py -f data/album2-test.json`
+In a new terminal, while the server is running, run from the client directory `python3 client.py -f ../data/album2-test.json`
 
 This test will add two albums, where 1 artist overlaps.
 

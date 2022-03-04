@@ -8,6 +8,10 @@ First start the server in a one terminal (note the export command may not be nee
 cd server
 export FLASK_APP=app.py
 flask run
+
+sqlite3 splatDB.sqlite3
+
+curl http://localhost:5000/songs/115
 ```
 
 You should see something like
