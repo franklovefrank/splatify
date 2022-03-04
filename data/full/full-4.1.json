@@ -1,0 +1,15 @@
+[
+    {
+      "url": "create",
+      "response": 200
+    },
+    {
+      "file": "add-fullalbum.json"
+    },
+    {
+      "file": "test-find-songs.json"
+    },
+    {
+      "file": "test-find-songs-by-alb.json"
+    }
+  ]

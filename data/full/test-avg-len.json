@@ -1,0 +1,96 @@
+{
+  "get_path": "analytics/artists/avg_song_length",
+  "response": 200,
+  "tests": [
+    {
+      "inputs": 36,
+      "expected": [
+        {
+          "artist_id": 36,
+          "avg_length": 209.1
+        }
+      ]
+    },
+    {
+      "inputs": 13,
+      "expected": [
+        {
+          "artist_id": 13,
+          "avg_length": 198.9
+        }
+      ]
+    },
+    {
+      "inputs": 24,
+      "expected": [
+        {
+          "artist_id": 24,
+          "avg_length": 189.2
+        }
+      ]
+    },
+    {
+      "inputs": 50,
+      "expected": [
+        {
+          "artist_id": 50,
+          "avg_length": 190.0
+        }
+      ]
+    },
+    {
+      "inputs": 19,
+      "expected": [
+        {
+          "artist_id": 19,
+          "avg_length": 210.3
+        }
+      ]
+    },
+    {
+      "inputs": 5,
+      "expected": [
+        {
+          "artist_id": 5,
+          "avg_length": 208.8
+        }
+      ]
+    },
+    {
+      "inputs": 25,
+      "expected": [
+        {
+          "artist_id": 25,
+          "avg_length": 203.3
+        }
+      ]
+    },
+    {
+      "inputs": 33,
+      "expected": [
+        {
+          "artist_id": 33,
+          "avg_length": 190.8
+        }
+      ]
+    },
+    {
+      "inputs": 29,
+      "expected": [
+        {
+          "artist_id": 29,
+          "avg_length": 202.8
+        }
+      ]
+    },
+    {
+      "inputs": 47,
+      "expected": [
+        {
+          "artist_id": 47,
+          "avg_length": 206.3
+        }
+      ]
+    }
+  ]
+}

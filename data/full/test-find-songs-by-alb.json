@@ -1,0 +1,666 @@
+{
+  "get_path": "songs/by_album",
+  "response": 200,
+  "tests": [
+    {
+      "inputs": 78,
+      "expected": [
+        {
+          "song_id": 48,
+          "song_name": "Morgen",
+          "length": 167,
+          "artist_ids": [
+            33
+          ]
+        },
+        {
+          "song_id": 451,
+          "song_name": "Born Rich",
+          "length": 188,
+          "artist_ids": [
+            45
+          ]
+        },
+        {
+          "song_id": 99,
+          "song_name": "Devil's Double, The",
+          "length": 209,
+          "artist_ids": [
+            11
+          ]
+        },
+        {
+          "song_id": 163,
+          "song_name": "King of the Zombies",
+          "length": 193,
+          "artist_ids": [
+            12
+          ]
+        },
+        {
+          "song_id": 263,
+          "song_name": "Rise and Fall of Legs Diamond, The",
+          "length": 191,
+          "artist_ids": [
+            2,
+            48
+          ]
+        },
+        {
+          "song_id": 300,
+          "song_name": "My Sassy Girl (Yeopgijeogin geunyeo)",
+          "length": 185,
+          "artist_ids": [
+            14,
+            23
+          ]
+        },
+        {
+          "song_id": 92,
+          "song_name": "Edge of Love, The",
+          "length": 213,
+          "artist_ids": [
+            13
+          ]
+        },
+        {
+          "song_id": 494,
+          "song_name": "Von Richthofen and Brown",
+          "length": 269,
+          "artist_ids": [
+            19,
+            48
+          ]
+        }
+      ]
+    },
+    {
+      "inputs": 115,
+      "expected": [
+        {
+          "song_id": 274,
+          "song_name": "Big White, The",
+          "length": 193,
+          "artist_ids": [
+            39
+          ]
+        },
+        {
+          "song_id": 403,
+          "song_name": "Diplomacy (Diplomatie)",
+          "length": 236,
+          "artist_ids": [
+            29,
+            45
+          ]
+        },
+        {
+          "song_id": 302,
+          "song_name": "Backbeat",
+          "length": 170,
+          "artist_ids": [
+            18,
+            36,
+            45
+          ]
+        },
+        {
+          "song_id": 203,
+          "song_name": "Crocodile",
+          "length": 161,
+          "artist_ids": [
+            11,
+            48
+          ]
+        },
+        {
+          "song_id": 79,
+          "song_name": "Return of the Street Fighter (Satsujin ken 2)",
+          "length": 210,
+          "artist_ids": [
+            18
+          ]
+        },
+        {
+          "song_id": 488,
+          "song_name": "Taking Care of Business",
+          "length": 229,
+          "artist_ids": [
+            19
+          ]
+        },
+        {
+          "song_id": 461,
+          "song_name": "Winter of Frozen Dreams",
+          "length": 178,
+          "artist_ids": [
+            10,
+            15,
+            30
+          ]
+        },
+        {
+          "song_id": 322,
+          "song_name": "Punk's Not Dead",
+          "length": 229,
+          "artist_ids": [
+            48
+          ]
+        },
+        {
+          "song_id": 379,
+          "song_name": "Wooden Crosses (Les croix de bois)",
+          "length": 210,
+          "artist_ids": [
+            44
+          ]
+        },
+        {
+          "song_id": 341,
+          "song_name": "Smokin' Aces 2: Assassins' Ball",
+          "length": 171,
+          "artist_ids": [
+            6,
+            16
+          ]
+        }
+      ]
+    },
+    {
+      "inputs": 64,
+      "expected": [
+        {
+          "song_id": 346,
+          "song_name": "Love Loves Coincidences",
+          "length": 225,
+          "artist_ids": [
+            20,
+            25,
+            29
+          ]
+        },
+        {
+          "song_id": 421,
+          "song_name": "Murder!",
+          "length": 218,
+          "artist_ids": [
+            1,
+            19
+          ]
+        },
+        {
+          "song_id": 49,
+          "song_name": "According to Greta",
+          "length": 221,
+          "artist_ids": [
+            41
+          ]
+        },
+        {
+          "song_id": 183,
+          "song_name": "Night Across the Street (La noche de enfrente)",
+          "length": 222,
+          "artist_ids": [
+            46
+          ]
+        },
+        {
+          "song_id": 327,
+          "song_name": "Goodbye Girl, The",
+          "length": 177,
+          "artist_ids": [
+            20
+          ]
+        },
+        {
+          "song_id": 364,
+          "song_name": "White Stripes Under Great White Northern Lights, The",
+          "length": 187,
+          "artist_ids": [
+            8,
+            35
+          ]
+        }
+      ]
+    },
+    {
+      "inputs": 14,
+      "expected": [
+        {
+          "song_id": 342,
+          "song_name": "Washington Square",
+          "length": 159,
+          "artist_ids": [
+            36
+          ]
+        },
+        {
+          "song_id": 192,
+          "song_name": "Tunnel, The",
+          "length": 152,
+          "artist_ids": [
+            26,
+            45
+          ]
+        },
+        {
+          "song_id": 10,
+          "song_name": "Major League: Back to the Minors",
+          "length": 192,
+          "artist_ids": [
+            6,
+            15
+          ]
+        },
+        {
+          "song_id": 106,
+          "song_name": "True Heart Susie",
+          "length": 245,
+          "artist_ids": [
+            32,
+            43,
+            46
+          ]
+        },
+        {
+          "song_id": 159,
+          "song_name": "Vincent: A Life in Color",
+          "length": 155,
+          "artist_ids": [
+            43
+          ]
+        },
+        {
+          "song_id": 31,
+          "song_name": "Troop Beverly Hills",
+          "length": 270,
+          "artist_ids": [
+            17,
+            35,
+            36
+          ]
+        },
+        {
+          "song_id": 73,
+          "song_name": "Redwood Highway",
+          "length": 153,
+          "artist_ids": [
+            2,
+            38
+          ]
+        }
+      ]
+    },
+    {
+      "inputs": 38,
+      "expected": [
+        {
+          "song_id": 284,
+          "song_name": "Gambling City",
+          "length": 184,
+          "artist_ids": [
+            28,
+            35
+          ]
+        },
+        {
+          "song_id": 356,
+          "song_name": "Duplicate",
+          "length": 259,
+          "artist_ids": [
+            27
+          ]
+        },
+        {
+          "song_id": 259,
+          "song_name": "Salt of the Earth",
+          "length": 215,
+          "artist_ids": [
+            30
+          ]
+        },
+        {
+          "song_id": 244,
+          "song_name": "Last Minute, The",
+          "length": 202,
+          "artist_ids": [
+            1,
+            31
+          ]
+        },
+        {
+          "song_id": 163,
+          "song_name": "King of the Zombies",
+          "length": 193,
+          "artist_ids": [
+            12
+          ]
+        },
+        {
+          "song_id": 132,
+          "song_name": "Such Hawks Such Hounds",
+          "length": 269,
+          "artist_ids": [
+            23
+          ]
+        },
+        {
+          "song_id": 447,
+          "song_name": "Epitaph",
+          "length": 193,
+          "artist_ids": [
+            16
+          ]
+        },
+        {
+          "song_id": 300,
+          "song_name": "My Sassy Girl (Yeopgijeogin geunyeo)",
+          "length": 185,
+          "artist_ids": [
+            14,
+            23
+          ]
+        },
+        {
+          "song_id": 69,
+          "song_name": "Idolmaker, The",
+          "length": 201,
+          "artist_ids": [
+            24,
+            29,
+            34
+          ]
+        },
+        {
+          "song_id": 280,
+          "song_name": "Love and Basketball",
+          "length": 296,
+          "artist_ids": [
+            5,
+            13,
+            38
+          ]
+        },
+        {
+          "song_id": 369,
+          "song_name": "Liar's Autobiography: The Untrue Story of Monty Python's Graham Chapman, A",
+          "length": 220,
+          "artist_ids": [
+            39,
+            48
+          ]
+        }
+      ]
+    },
+    {
+      "inputs": 120,
+      "expected": [
+        {
+          "song_id": 345,
+          "song_name": "Battle of Russia, The (Why We Fight, 5)",
+          "length": 171,
+          "artist_ids": [
+            50
+          ]
+        },
+        {
+          "song_id": 338,
+          "song_name": "Sharpe's Battle",
+          "length": 217,
+          "artist_ids": [
+            5,
+            37
+          ]
+        },
+        {
+          "song_id": 95,
+          "song_name": "Beastmaster 2: Through the Portal of Time",
+          "length": 163,
+          "artist_ids": [
+            5,
+            16
+          ]
+        },
+        {
+          "song_id": 104,
+          "song_name": "Ugly, The",
+          "length": 213,
+          "artist_ids": [
+            19,
+            30
+          ]
+        },
+        {
+          "song_id": 392,
+          "song_name": "One Man Band",
+          "length": 223,
+          "artist_ids": [
+            26,
+            43
+          ]
+        }
+      ]
+    },
+    {
+      "inputs": 79,
+      "expected": [
+        {
+          "song_id": 55,
+          "song_name": "Bridge to Nowhere, The",
+          "length": 216,
+          "artist_ids": [
+            35
+          ]
+        },
+        {
+          "song_id": 135,
+          "song_name": "I Inside, The",
+          "length": 257,
+          "artist_ids": [
+            35,
+            46
+          ]
+        },
+        {
+          "song_id": 482,
+          "song_name": "Above and Beyond",
+          "length": 215,
+          "artist_ids": [
+            43,
+            44,
+            50
+          ]
+        },
+        {
+          "song_id": 263,
+          "song_name": "Rise and Fall of Legs Diamond, The",
+          "length": 191,
+          "artist_ids": [
+            2,
+            48
+          ]
+        },
+        {
+          "song_id": 206,
+          "song_name": "Box, The",
+          "length": 173,
+          "artist_ids": [
+            49
+          ]
+        },
+        {
+          "song_id": 18,
+          "song_name": "Pekka ja P\u00e4tk\u00e4 puistot\u00e4tein\u00e4",
+          "length": 221,
+          "artist_ids": [
+            5,
+            39,
+            41
+          ]
+        },
+        {
+          "song_id": 244,
+          "song_name": "Last Minute, The",
+          "length": 202,
+          "artist_ids": [
+            1,
+            31
+          ]
+        },
+        {
+          "song_id": 32,
+          "song_name": "Shot at Glory, A",
+          "length": 230,
+          "artist_ids": [
+            26,
+            28,
+            38
+          ]
+        },
+        {
+          "song_id": 233,
+          "song_name": "Citadel",
+          "length": 141,
+          "artist_ids": [
+            16,
+            18,
+            19
+          ]
+        },
+        {
+          "song_id": 134,
+          "song_name": "Lowlands (Tiefland)",
+          "length": 220,
+          "artist_ids": [
+            11,
+            19
+          ]
+        }
+      ]
+    },
+    {
+      "inputs": 37,
+      "expected": [
+        {
+          "song_id": 400,
+          "song_name": "Tekkonkinkreet (Tekkon kinkur\u00eeto)",
+          "length": 198,
+          "artist_ids": [
+            29,
+            41
+          ]
+        },
+        {
+          "song_id": 47,
+          "song_name": "C.O.G.",
+          "length": 239,
+          "artist_ids": [
+            17,
+            33,
+            49
+          ]
+        },
+        {
+          "song_id": 163,
+          "song_name": "King of the Zombies",
+          "length": 193,
+          "artist_ids": [
+            12
+          ]
+        }
+      ]
+    },
+    {
+      "inputs": 17,
+      "expected": [
+        {
+          "song_id": 281,
+          "song_name": "Het Vonnis",
+          "length": 159,
+          "artist_ids": [
+            7,
+            16,
+            41
+          ]
+        },
+        {
+          "song_id": 497,
+          "song_name": "Dances with Wolves",
+          "length": 234,
+          "artist_ids": [
+            44
+          ]
+        },
+        {
+          "song_id": 236,
+          "song_name": "American: The Bill Hicks Story",
+          "length": 178,
+          "artist_ids": [
+            15
+          ]
+        },
+        {
+          "song_id": 44,
+          "song_name": "Sarah Silverman: Jesus Is Magic",
+          "length": 213,
+          "artist_ids": [
+            8,
+            19,
+            22
+          ]
+        }
+      ]
+    },
+    {
+      "inputs": 48,
+      "expected": [
+        {
+          "song_id": 299,
+          "song_name": "Never Cry Wolf",
+          "length": 242,
+          "artist_ids": [
+            12,
+            21
+          ]
+        },
+        {
+          "song_id": 375,
+          "song_name": "Pushing Tin",
+          "length": 181,
+          "artist_ids": [
+            3,
+            28,
+            48
+          ]
+        },
+        {
+          "song_id": 69,
+          "song_name": "Idolmaker, The",
+          "length": 201,
+          "artist_ids": [
+            24,
+            29,
+            34
+          ]
+        },
+        {
+          "song_id": 309,
+          "song_name": "Thrill of It All, The",
+          "length": 220,
+          "artist_ids": [
+            2,
+            29
+          ]
+        },
+        {
+          "song_id": 249,
+          "song_name": "Carne",
+          "length": 151,
+          "artist_ids": [
+            18
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+    "get_path": "songs",
+    "response": 200,
+    "tests": [
+        {
+            "inputs": 372,
+            "expected": [
+                {
+                    "song_id": 372,
+                    "song_name": "Kirikou and the Sorceress (Kirikou et la sorci\u00e8re)",
+                    "length": 154,
+                    "artist_ids": [
+                        2
+                    ],
+                    "album_ids": [
+                        58
+                    ]
+                }
+            ]
+        },
+        {
+            "inputs": 464,
+            "expected": [
+                {
+                    "song_id": 464,
+                    "song_name": "Madonna of the Seven Moons",
+                    "length": 175,
+                    "artist_ids": [
+                        48
+                    ],
+                    "album_ids": [
+                        44
+                    ]
+                }
+            ]
+        }
+    ]
+}

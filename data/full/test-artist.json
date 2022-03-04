@@ -1,0 +1,106 @@
+{
+  "get_path": "artists",
+  "response": 200,
+  "tests": [
+    {
+      "inputs": 24,
+      "expected": [
+        {
+          "artist_id": 24,
+          "artist_name": "Candide Kelleher",
+          "country": "China"
+        }
+      ]
+    },
+    {
+      "inputs": 22,
+      "expected": [
+        {
+          "artist_id": 22,
+          "artist_name": "Devon Cozby",
+          "country": "Russia"
+        }
+      ]
+    },
+    {
+      "inputs": 36,
+      "expected": [
+        {
+          "artist_id": 36,
+          "artist_name": "Sidoney Plaice",
+          "country": "China"
+        }
+      ]
+    },
+    {
+      "inputs": 50,
+      "expected": [
+        {
+          "artist_id": 50,
+          "artist_name": "Barde Schoenrock",
+          "country": "China"
+        }
+      ]
+    },
+    {
+      "inputs": 10,
+      "expected": [
+        {
+          "artist_id": 10,
+          "artist_name": "Gianni Blodg",
+          "country": "China"
+        }
+      ]
+    },
+    {
+      "inputs": 13,
+      "expected": [
+        {
+          "artist_id": 13,
+          "artist_name": "Anstice Carncross",
+          "country": "Thailand"
+        }
+      ]
+    },
+    {
+      "inputs": 39,
+      "expected": [
+        {
+          "artist_id": 39,
+          "artist_name": "Adan Adie",
+          "country": "Democratic Republic of the Congo"
+        }
+      ]
+    },
+    {
+      "inputs": 33,
+      "expected": [
+        {
+          "artist_id": 33,
+          "artist_name": "Fanechka Stainson",
+          "country": "Brazil"
+        }
+      ]
+    },
+    {
+      "inputs": 26,
+      "expected": [
+        {
+          "artist_id": 26,
+          "artist_name": "Kahaleel Westcot",
+          "country": "Sweden"
+        }
+      ]
+    },
+    {
+      "inputs": 43,
+      "expected": [
+        {
+          "artist_id": 43,
+          "artist_name": "Dionne Haste",
+          "country": "Brazil"
+        }
+      ]
+    }
+  ]
+}

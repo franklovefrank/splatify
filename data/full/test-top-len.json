@@ -1,0 +1,53 @@
+{
+  "get_path": "analytics/artists/top_length",
+  "response": 200,
+  "tests": [
+    {
+      "inputs": 1,
+      "expected": [
+        {
+          "artist_id": 44,
+          "total_length": 5856
+        }
+      ]
+    },
+    {
+      "inputs": 2,
+      "expected": [
+        {
+          "artist_id": 44,
+          "total_length": 5856
+        },
+        {
+          "artist_id": 18,
+          "total_length": 5716
+        }
+      ]
+    },
+    {
+      "inputs": 5,
+      "expected": [
+        {
+          "artist_id": 44,
+          "total_length": 5856
+        },
+        {
+          "artist_id": 18,
+          "total_length": 5716
+        },
+        {
+          "artist_id": 16,
+          "total_length": 5617
+        },
+        {
+          "artist_id": 41,
+          "total_length": 5037
+        },
+        {
+          "artist_id": 48,
+          "total_length": 4996
+        }
+      ]
+    }
+  ]
+}

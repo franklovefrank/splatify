@@ -1,0 +1,254 @@
+{
+  "get_path": "albums/by_artist",
+  "response": 200,
+  "tests": [
+    {
+      "inputs": 20,
+      "expected": [
+        {
+          "album_id": 110,
+          "album_name": "Mat Lam Tam",
+          "release_year": 2004
+        }
+      ]
+    },
+    {
+      "inputs": 31,
+      "expected": []
+    },
+    {
+      "inputs": 2,
+      "expected": [
+        {
+          "album_id": 20,
+          "album_name": "Span",
+          "release_year": 2010
+        },
+        {
+          "album_id": 21,
+          "album_name": "Overhold",
+          "release_year": 1990
+        },
+        {
+          "album_id": 53,
+          "album_name": "Lotlux",
+          "release_year": 2011
+        },
+        {
+          "album_id": 56,
+          "album_name": "Gembucket",
+          "release_year": 1991
+        },
+        {
+          "album_id": 58,
+          "album_name": "Holdlamis",
+          "release_year": 2010
+
+        }
+      ]
+    },
+    {
+      "inputs": 24,
+      "expected": [
+        {
+          "album_id": 15,
+          "album_name": "Subin",
+          "release_year": 1993
+
+        }
+      ]
+    },
+    {
+      "inputs": 22,
+      "expected": [
+        {
+          "album_id": 46,
+          "album_name": "Keylex",
+          "release_year": 2002
+
+        },
+        {
+          "album_id": 116,
+          "album_name": "Rank",
+          "release_year": 1993
+
+        }
+      ]
+    },
+    {
+      "inputs": 44,
+      "expected": [
+        {
+          "album_id": 4,
+          "album_name": "Bigtax",
+          "release_year": 2003
+
+        },
+        {
+          "album_id": 7,
+          "album_name": "Aerified",
+          "release_year": 1963
+
+        },
+        {
+          "album_id": 17,
+          "album_name": "Fixflex",
+          "release_year": 2009
+
+        },
+        {
+          "album_id": 25,
+          "album_name": "Span",
+          "release_year": 1987
+
+        },
+        {
+          "album_id": 29,
+          "album_name": "Quo Lux",
+          "release_year": 2000
+
+        },
+        {
+          "album_id": 34,
+          "album_name": "Prodder",
+          "release_year": 1995
+        },
+        {
+          "album_id": 35,
+          "album_name": "Y-Solowarm",
+          "release_year": 1994
+        },
+        {
+          "album_id": 43,
+          "album_name": "Alphazap",
+          "release_year": 1994
+        },
+        {
+          "album_id": 74,
+          "album_name": "Y-Solowarm",
+          "release_year": 1997
+        },
+        {
+          "album_id": 103,
+          "album_name": "Sonair",
+          "release_year": 2000
+        }
+      ]
+    },
+    {
+      "inputs": 8,
+      "expected": [
+        {
+          "album_id": 22,
+          "album_name": "Trippledex",
+          "release_year": 2011
+
+        },
+        {
+          "album_id": 72,
+          "album_name": "Gembucket",
+          "release_year": 2008
+
+        },
+        {
+          "album_id": 124,
+          "album_name": "Mat Lam Tam",
+          "release_year": 2005
+
+        }
+      ]
+    },
+    {
+      "inputs": 27,
+      "expected": [
+        {
+          "album_id": 24,
+          "album_name": "Transcof",
+          "release_year": 2001
+
+        },
+        {
+          "album_id": 86,
+          "album_name": "Lotlux",
+          "release_year": 2009
+
+        },
+        {
+          "album_id": 92,
+          "album_name": "Alpha",
+          "release_year": 2003
+        },
+        {
+          "album_id": 125,
+          "album_name": "Rank",
+          "release_year": 2004
+
+        }
+      ]
+    },
+    {
+      "inputs": 38,
+      "expected": [
+        {
+          "album_id": 50,
+          "album_name": "Prodder",
+          "release_year": 1984
+        },
+        {
+          "album_id": 57,
+          "album_name": "Bytecard",
+          "release_year": 2003
+        },
+        {
+          "album_id": 110,
+          "album_name": "Mat Lam Tam",
+          "release_year": 2004
+
+        },
+        {
+          "album_id": 114,
+          "album_name": "Viva",
+          "release_year": 2005
+        }
+      ]
+    },
+    {
+      "inputs": 50,
+      "expected": [
+        {
+          "album_id": 6,
+          "album_name": "Veribet",
+          "release_year": 1986
+
+        },
+        {
+          "album_id": 39,
+          "album_name": "Veribet",
+          "release_year": 1989
+
+        },
+        {
+          "album_id": 74,
+          "album_name": "Y-Solowarm",
+          "release_year": 1997
+
+        },
+        {
+          "album_id": 87,
+          "album_name": "Voltsillam",
+          "release_year": 2000
+        },
+        {
+          "album_id": 94,
+          "album_name": "Rank",
+          "release_year": 1991
+        },
+        {
+          "album_id": 114,
+          "album_name": "Viva",
+          "release_year": 2005
+        }
+      ]
+    }
+  ]
+}

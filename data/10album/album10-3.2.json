@@ -1,0 +1,19 @@
+[
+    {
+      "url": "create",
+      "response": 200
+    },
+    {
+      "file": "add-10album.json"
+    },
+    {
+      "file": "bad-album.json"
+    },
+    {
+      "file": "test-find-songs.json"
+    },
+    {
+        "url": "song/357",
+        "response": 404
+    }
+]

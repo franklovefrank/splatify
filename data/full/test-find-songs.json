@@ -1,0 +1,146 @@
+{
+  "get_path": "songs",
+  "response": 200,
+  "tests": [
+    {
+      "inputs": 97,
+      "expected": [
+        {
+          "song_id": 97,
+          "song_name": "Zone 39",
+          "length": 192,
+          "artist_ids": [
+            42
+          ],
+          "album_ids": [
+            35,
+            36,
+            124
+          ]
+        }
+      ]
+    },
+    {
+      "inputs": 418,
+      "expected": [
+        {
+          "song_id": 418,
+          "song_name": "Roberta",
+          "length": 202,
+          "artist_ids": [
+            9,
+            33,
+            48
+          ],
+          "album_ids": [
+            32,
+            65
+          ]
+        }
+      ]
+    },
+    {
+      "inputs": 294,
+      "expected": [
+        {
+          "song_id": 294,
+          "song_name": "Born Reckless",
+          "length": 140,
+          "artist_ids": [
+            16,
+            18,
+            21
+          ],
+          "album_ids": [
+            42,
+            56
+          ]
+        }
+      ]
+    },
+    {
+      "inputs": 326,
+      "expected": [
+        {
+          "song_id": 326,
+          "song_name": "It Started with Eve",
+          "length": 152,
+          "artist_ids": [
+            15,
+            24
+          ],
+          "album_ids": [
+            61
+          ]
+        }
+      ]
+    },
+    {
+      "inputs": 285,
+      "expected": [
+        {
+          "song_id": 285,
+          "song_name": "Caught",
+          "length": 167,
+          "artist_ids": [
+            5,
+            24,
+            33
+          ],
+          "album_ids": [
+            39
+          ]
+        }
+      ]
+    },
+    {
+      "inputs": 3,
+      "expected": [
+        {
+          "song_id": 3,
+          "song_name": "Carlito's Way",
+          "length": 129,
+          "artist_ids": [
+            8,
+            35
+          ],
+          "album_ids": [
+            82
+          ]
+        }
+      ]
+    },
+    {
+      "inputs": 500,
+      "expected": [
+        {
+          "song_id": 500,
+          "song_name": "Stonehearst Asylum",
+          "length": 143,
+          "artist_ids": [
+            17
+          ],
+          "album_ids": [
+            62
+          ]
+        }
+      ]
+    },
+    {
+      "inputs": 162,
+      "expected": [
+        {
+          "song_id": 162,
+          "song_name": "Spook Who Sat by the Door, The",
+          "length": 212,
+          "artist_ids": [
+            16
+          ],
+          "album_ids": [
+            69
+          ]
+        }
+      ]
+    }
+  ]
+}

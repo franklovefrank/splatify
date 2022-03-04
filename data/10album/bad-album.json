@@ -1,0 +1,59 @@
+{
+ "post_path": "album",
+ "response": 400,
+ "values": [
+  {
+    "album_id": 999,
+    "album_name": "This album is trash",
+    "release_year": 2012,
+    "artists": [
+     {
+      "artist_id": 19,
+      "artist_name": "Shep Beincken",
+      "country": "Indonesia"
+     }
+    ],
+    "songs": [
+     {
+      "song_id": 357,
+      "song_name": "Oliver Twist",
+      "length": 209,
+      "artists": [
+       {
+        "artist_id": 45,
+        "artist_name": "Danika Callan",
+        "country": "Russia"
+       },
+       {
+        "artist_id": 39,
+        "artist_name": "Adan Adie",
+        "country": "Democratic Republic of the Congo"
+       }
+      ]
+     },
+     {
+      "song_id": 391,
+      "song_name": "State of Play",
+      "length": 202,
+      "artists": [
+       {
+        "artist_id": 45,
+        "artist_name": "Danika Callan",
+        "country": "Russia"
+       },
+       {
+        "artist_id": 32,
+        "artist_name": "Josselyn Bockett",
+        "country": "China"
+       }
+      ]
+     },
+     {
+      "song_id": 488,
+      "song_name": "Hint this is a bad song",
+      "length": 229
+     }
+    ]
+   }
+ ]
+}

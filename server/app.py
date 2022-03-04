@@ -61,8 +61,7 @@ def create_tables():
 @app.route('/album', methods=["POST"])
 def add_album():
     """
-    Loads a new appearance of song
-    (and possibly a new song) into the database.
+    Loads a new appearance of an album into the database.
     """
     post_body = request.json
     if not post_body:
@@ -86,7 +85,6 @@ def add_album():
 def find_song(song_id):
     """
     Returns a song's info
-    (song_id, name, length, artist name, album name) based on song_id
     """
     # get DB class with new connection
     db = DB(get_db_conn())
@@ -107,7 +105,6 @@ def find_song(song_id):
 def find_songs_by_album(album_id):
     """
     Returns all an album's songs
-    (song_id, name, length, artist name, album name) based on album_id
     """
     # get DB class with new connection
     db = DB(get_db_conn())
@@ -128,7 +125,6 @@ def find_songs_by_album(album_id):
 def find_songs_by_artist(artist_id):
     """
     Returns all an artists' songs
-    (song_id, name, length, artist name, album name) based on artist_id
     """
     # get DB class with new connection
     db = DB(get_db_conn())
@@ -149,7 +145,6 @@ def find_songs_by_artist(artist_id):
 def find_album(album_id):
     """
     Returns a album's info
-    (album_id, album_name, release_year). 
     """
     # get DB class with new connection
     db = DB(get_db_conn())
@@ -170,7 +165,6 @@ def find_album(album_id):
 def find_album_by_artist(artist_id):
     """
     Returns a album's info
-    (album_id, album_name, release_year). 
     """
     # get DB class with new connection
     db = DB(get_db_conn())
@@ -191,7 +185,6 @@ def find_album_by_artist(artist_id):
 def find_artist(artist_id):
     """
     Returns a artist's info
-    (artist_id, artist_name, country). 
     """
     # get DB class with new connection
     db = DB(get_db_conn())

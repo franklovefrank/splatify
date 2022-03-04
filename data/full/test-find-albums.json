@@ -1,0 +1,249 @@
+{
+  "get_path": "albums",
+  "response": 200,
+  "tests": [
+    {
+      "inputs": 1,
+      "expected": [
+        {
+          "album_id": 1,
+          "album_name": "Namfix",
+          "release_year": 1992,
+          "artist_ids": [
+            3
+          ],
+          "song_ids": [
+            24,
+            180,
+            288
+          ]
+        }
+      ]
+    },
+    {
+      "inputs": 13,
+      "expected": [
+        {
+          "album_id": 13,
+          "album_name": "Opela",
+          "release_year": 1998,
+          "artist_ids": [
+            18
+          ],
+          "song_ids": [
+            86,
+            121,
+            413,
+            185,
+            58,
+            52
+          ]
+        }
+      ]
+    },
+    {
+      "inputs": 14,
+      "expected": [
+        {
+          "album_id": 14,
+          "album_name": "Asoka",
+          "release_year": 2012,
+          "artist_ids": [
+            26,
+            45
+          ],
+          "song_ids": [
+            342,
+            192,
+            10,
+            106,
+            159,
+            31,
+            73
+          ]
+        }
+      ]
+    },
+    {
+      "inputs": 92,
+      "expected": [
+        {
+          "album_id": 92,
+          "album_name": "Alpha",
+          "release_year": 2003,
+          "artist_ids": [
+            13,
+            27
+          ],
+          "song_ids": [
+            373,
+            110,
+            479,
+            83,
+            38,
+            425,
+            458,
+            270,
+            23,
+            174,
+            363
+          ]
+        }
+      ]
+    },
+    {
+      "inputs": 39,
+      "expected": [
+        {
+          "album_id": 39,
+          "album_name": "Veribet",
+          "release_year": 1989,
+          "artist_ids": [
+            50
+          ],
+          "song_ids": [
+            67,
+            169,
+            402,
+            345,
+            285,
+            307,
+            396,
+            182,
+            28,
+            87
+          ]
+        }
+      ]
+    },
+    {
+      "inputs": 103,
+      "expected": [
+        {
+          "album_id": 103,
+          "album_name": "Sonair",
+          "release_year": 2000,
+          "artist_ids": [
+            15,
+            36,
+            44
+          ],
+          "song_ids": [
+            22,
+            78,
+            40,
+            143,
+            459,
+            385,
+            217,
+            215,
+            227,
+            331,
+            2,
+            151,
+            438
+          ]
+        }
+      ]
+    },
+    {
+      "inputs": 59,
+      "expected": [
+        {
+          "album_id": 59,
+          "album_name": "Asoka",
+          "release_year": 1992,
+          "artist_ids": [
+            10
+          ],
+          "song_ids": [
+            257,
+            306,
+            305,
+            358,
+            98,
+            216,
+            220,
+            168,
+            229,
+            241,
+            404
+          ]
+        }
+      ]
+    },
+    {
+      "inputs": 65,
+      "expected": [
+        {
+          "album_id": 65,
+          "album_name": "Daltfresh",
+          "release_year": 2002,
+          "artist_ids": [
+            18
+          ],
+          "song_ids": [
+            480,
+            79,
+            398,
+            418,
+            488,
+            439,
+            405,
+            307
+          ]
+        }
+      ]
+    },
+    {
+      "inputs": 56,
+      "expected": [
+        {
+          "album_id": 56,
+          "album_name": "Gembucket",
+          "release_year": 1991,
+          "artist_ids": [
+            2,
+            48
+          ],
+          "song_ids": [
+            354,
+            279,
+            294,
+            94,
+            36,
+            263,
+            62,
+            479,
+            111
+          ]
+        }
+      ]
+    },
+    {
+      "inputs": 16,
+      "expected": [
+        {
+          "album_id": 16,
+          "album_name": "Pannier",
+          "release_year": 2009,
+          "artist_ids": [
+            18
+          ],
+          "song_ids": [
+            295,
+            135,
+            360,
+            27,
+            431,
+            463,
+            392,
+            304,
+            179,
+            270
+          ]
+        }
+      ]
+    }
+  ]
+}
