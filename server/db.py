@@ -131,8 +131,8 @@ class DB:
         #insert into song_artist
         song_artist_query = "INSERT OR IGNORE INTO song_artist (song_id, artist_id) VALUES (:song_id, :artist_id)"
         for artist in artists:
-            song_artist = [{"song_id": song_id, "artist_id": artist["artist_id"]} 
-            c.execute(song_artist_query, song_artists)
+            song_artist = {"song_id": song_id, "artist_id": artist["artist_id"]} 
+            c.execute(song_artist_query, song_artist)
         #insert into song_albums 
         song_album_query = "INSERT OR IGNORE INTO song_album (song_id, album_id, order_in_album) VALUES (:song_id, :album_id, :order_in_album)"
         song_album = {"song_id": song_id, "album_id":album["album_id"], "order_in_album":album["order_in_album"] }
@@ -191,12 +191,12 @@ class DB:
     def find_songs_by_album(self, album_id):
         c = self.conn.cursor()
         album_query = "SELECT * from album WHERE album_id = :id"
-        album_vals = {'id', album_id}
+        album_vals = {'id':album_id}
         c.execute(album_query, album_vals)
         if not c.fetchall():
             raise KeyNotFound()
-        song_album_query = """SELECT song_id, song_name, length, album_name FROM song 
-        NATURAL JOIN album NATURAL JOIN song_album 
+        song_album_query = """SELECT song_id, song_name, length FROM song 
+        NATURAL JOIN song_album NATURAL JOIN album 
         WHERE album_id =:id ORDER BY order_in_album;"""
         c.execute(song_album_query, album_vals)
         res = to_json(c)
@@ -312,7 +312,7 @@ class DB:
         exists = c.fetchall()
         if not exists:
             raise KeyNotFound()
-        length_query ="""SELECT artist_id, avg(length) AS avg_length
+        length_query ="""SELECT artist_id, ROUND(avg(length),1) AS avg_length
             FROM song NATURAL JOIN artist NATURAL JOIN song_artist 
             WHERE artist_id = :artist_id;"""
         c.execute(length_query, artist_id_val)

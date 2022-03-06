@@ -30,7 +30,8 @@ CREATE TABLE song_artist (
     song_id INT NOT NULL,
     artist_id INT NOT NULL,
     FOREIGN KEY (artist_id) REFERENCES artist,
-    FOREIGN KEY (song_id) REFERENCES song
+    FOREIGN KEY (song_id) REFERENCES song,
+    PRIMARY KEY (song_id, artist_id)
 );
 
 CREATE TABLE song_album (
